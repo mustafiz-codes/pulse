@@ -1,0 +1,344 @@
+[
+  {
+    "owner_id": "rep_01",
+    "period_month": "2025-11",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2025-11",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2025-11",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2025-11",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2025-12",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2025-12",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2025-12",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2025-12",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-01",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-01",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-01",
+    "currency": "GBP",
+    "won_value_target_minor": 700000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-01",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-01",
+    "currency": "GBP",
+    "won_value_target_minor": 100000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-02",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-02",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-02",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-02",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-02",
+    "currency": "GBP",
+    "won_value_target_minor": 100000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-03",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-03",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-03",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-03",
+    "currency": "GBP",
+    "won_value_target_minor": 100000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-04",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-04",
+    "currency": "GBP",
+    "won_value_target_minor": 1800000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-04",
+    "currency": "GBP",
+    "won_value_target_minor": 600000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-04",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-04",
+    "currency": "GBP",
+    "won_value_target_minor": 1100000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-05",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-05",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-05",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-05",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-05",
+    "currency": "GBP",
+    "won_value_target_minor": 100000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-06",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-06",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-06",
+    "currency": "GBP",
+    "won_value_target_minor": 600000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-06",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-06",
+    "currency": "GBP",
+    "won_value_target_minor": 1200000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-07",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-07",
+    "currency": "GBP",
+    "won_value_target_minor": 1100000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-07",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-07",
+    "currency": "GBP",
+    "won_value_target_minor": 300000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-07",
+    "currency": "GBP",
+    "won_value_target_minor": 100000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-08",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-08",
+    "currency": "GBP",
+    "won_value_target_minor": 500000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-08",
+    "currency": "GBP",
+    "won_value_target_minor": 600000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-08",
+    "currency": "GBP",
+    "won_value_target_minor": 200000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-08",
+    "currency": "GBP",
+    "won_value_target_minor": 100000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-09",
+    "currency": "GBP",
+    "won_value_target_minor": 1300000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-09",
+    "currency": "GBP",
+    "won_value_target_minor": 700000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-09",
+    "currency": "GBP",
+    "won_value_target_minor": 900000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-09",
+    "currency": "GBP",
+    "won_value_target_minor": 1200000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-09",
+    "currency": "GBP",
+    "won_value_target_minor": 800000
+  },
+  {
+    "owner_id": "rep_01",
+    "period_month": "2026-10",
+    "currency": "GBP",
+    "won_value_target_minor": 1600000
+  },
+  {
+    "owner_id": "rep_02",
+    "period_month": "2026-10",
+    "currency": "GBP",
+    "won_value_target_minor": 1700000
+  },
+  {
+    "owner_id": "rep_03",
+    "period_month": "2026-10",
+    "currency": "GBP",
+    "won_value_target_minor": 2000000
+  },
+  {
+    "owner_id": "rep_04",
+    "period_month": "2026-10",
+    "currency": "GBP",
+    "won_value_target_minor": 900000
+  },
+  {
+    "owner_id": "rep_05",
+    "period_month": "2026-10",
+    "currency": "GBP",
+    "won_value_target_minor": 1500000
+  }
+]

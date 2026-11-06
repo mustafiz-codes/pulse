@@ -1,0 +1,34 @@
+[
+  {
+    "id": "executive_overview",
+    "label": "Executive overview",
+    "description": "The default October performance story.",
+    "route": "/overview",
+    "period": "thisMonth"
+  },
+  {
+    "id": "conversion_bottleneck",
+    "label": "Conversion bottleneck",
+    "description": "Lawyer JR deals are dwelling in Proposal.",
+    "route": "/conversion",
+    "period": "quarter",
+    "unit_id": "lawyer",
+    "stage": "proposal",
+    "focus_deal_id": "deal_0038"
+  },
+  {
+    "id": "operational_workload",
+    "label": "Operational workload",
+    "description": "Irteza’s logged time is weighted towards operations.",
+    "route": "/workload",
+    "period": "last30Days",
+    "owner_id": "rep_03"
+  },
+  {
+    "id": "team_comparison",
+    "label": "Team comparison",
+    "description": "Compare outcomes with sample sizes in view.",
+    "route": "/team",
+    "period": "thisMonth"
+  }
+]

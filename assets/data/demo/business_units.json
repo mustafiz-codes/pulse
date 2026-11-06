@@ -1,0 +1,128 @@
+[
+  {
+    "id": "lawyer",
+    "label": "Lawyer",
+    "products": [
+      {
+        "id": "visa",
+        "label": "Visa"
+      },
+      {
+        "id": "jr",
+        "label": "JR"
+      },
+      {
+        "id": "ar",
+        "label": "AR"
+      },
+      {
+        "id": "appeal",
+        "label": "Appeal"
+      },
+      {
+        "id": "ilr",
+        "label": "ILR"
+      },
+      {
+        "id": "citizenship",
+        "label": "Citizenship"
+      }
+    ]
+  },
+  {
+    "id": "cloud",
+    "label": "Cloud",
+    "products": [
+      {
+        "id": "m365_setup",
+        "label": "Microsoft 365 Setup"
+      },
+      {
+        "id": "cloud_hosting",
+        "label": "Cloud Hosting"
+      },
+      {
+        "id": "backup_recovery",
+        "label": "Backup & Recovery"
+      },
+      {
+        "id": "managed_it",
+        "label": "Managed IT"
+      },
+      {
+        "id": "domain_email",
+        "label": "Domain & Email"
+      }
+    ]
+  },
+  {
+    "id": "hr",
+    "label": "HR",
+    "products": [
+      {
+        "id": "payroll_service",
+        "label": "Payroll Service"
+      },
+      {
+        "id": "hr_consultancy",
+        "label": "HR Consultancy"
+      },
+      {
+        "id": "employment_contracts",
+        "label": "Employment Contracts"
+      },
+      {
+        "id": "right_to_work",
+        "label": "Right-to-Work Checks"
+      }
+    ]
+  },
+  {
+    "id": "accountant",
+    "label": "Accountant",
+    "products": [
+      {
+        "id": "bookkeeping",
+        "label": "Bookkeeping"
+      },
+      {
+        "id": "self_assessment",
+        "label": "Self-Assessment"
+      },
+      {
+        "id": "vat_return",
+        "label": "VAT Return"
+      },
+      {
+        "id": "year_end_accounts",
+        "label": "Year-End Accounts"
+      },
+      {
+        "id": "company_formation",
+        "label": "Company Formation"
+      }
+    ]
+  },
+  {
+    "id": "global",
+    "label": "Global",
+    "products": [
+      {
+        "id": "sponsor_licence",
+        "label": "Sponsor Licence"
+      },
+      {
+        "id": "overseas_setup",
+        "label": "Overseas Company Setup"
+      },
+      {
+        "id": "global_payroll",
+        "label": "Global Payroll"
+      },
+      {
+        "id": "skilled_worker",
+        "label": "Skilled Worker Sponsorship"
+      }
+    ]
+  }
+]

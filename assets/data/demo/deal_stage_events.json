@@ -1,0 +1,7258 @@
+[
+  {
+    "id": "evt_0001",
+    "deal_id": "deal_0001",
+    "occurred_at": "2026-08-21T13:02:53.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0002",
+    "deal_id": "deal_0001",
+    "occurred_at": "2026-09-02T18:07:53.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0003",
+    "deal_id": "deal_0001",
+    "occurred_at": "2026-09-21T06:01:53.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0004",
+    "deal_id": "deal_0001",
+    "occurred_at": "2026-10-17T19:47:53.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0005",
+    "deal_id": "deal_0002",
+    "occurred_at": "2026-07-22T21:05:11.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0006",
+    "deal_id": "deal_0002",
+    "occurred_at": "2026-07-24T21:16:11.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0007",
+    "deal_id": "deal_0002",
+    "occurred_at": "2026-07-27T19:58:11.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0008",
+    "deal_id": "deal_0002",
+    "occurred_at": "2026-08-01T20:30:11.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0009",
+    "deal_id": "deal_0002",
+    "occurred_at": "2026-08-10T15:22:11.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0010",
+    "deal_id": "deal_0002",
+    "occurred_at": "2026-08-14T21:04:11.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0011",
+    "deal_id": "deal_0003",
+    "occurred_at": "2026-07-11T22:46:31.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0012",
+    "deal_id": "deal_0003",
+    "occurred_at": "2026-07-15T02:27:31.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0013",
+    "deal_id": "deal_0003",
+    "occurred_at": "2026-07-22T01:08:31.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0014",
+    "deal_id": "deal_0003",
+    "occurred_at": "2026-08-02T00:44:31.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0015",
+    "deal_id": "deal_0003",
+    "occurred_at": "2026-08-21T06:22:31.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0016",
+    "deal_id": "deal_0003",
+    "occurred_at": "2026-09-04T14:59:31.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0017",
+    "deal_id": "deal_0004",
+    "occurred_at": "2026-09-28T20:53:31.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0018",
+    "deal_id": "deal_0004",
+    "occurred_at": "2026-10-03T20:29:31.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0019",
+    "deal_id": "deal_0004",
+    "occurred_at": "2026-10-14T08:10:31.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0020",
+    "deal_id": "deal_0004",
+    "occurred_at": "2026-10-24T08:17:31.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0021",
+    "deal_id": "deal_0005",
+    "occurred_at": "2026-10-18T10:05:03.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0022",
+    "deal_id": "deal_0007",
+    "occurred_at": "2026-09-18T20:14:39.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0023",
+    "deal_id": "deal_0007",
+    "occurred_at": "2026-09-23T05:43:39.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0024",
+    "deal_id": "deal_0007",
+    "occurred_at": "2026-10-01T15:26:39.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0025",
+    "deal_id": "deal_0007",
+    "occurred_at": "2026-10-07T11:09:39.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0026",
+    "deal_id": "deal_0007",
+    "occurred_at": "2026-10-19T07:16:39.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0027",
+    "deal_id": "deal_0007",
+    "occurred_at": "2026-10-31T16:28:39.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0028",
+    "deal_id": "deal_0008",
+    "occurred_at": "2026-08-01T17:29:13.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0029",
+    "deal_id": "deal_0008",
+    "occurred_at": "2026-08-04T05:16:13.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0030",
+    "deal_id": "deal_0008",
+    "occurred_at": "2026-08-09T13:38:13.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0031",
+    "deal_id": "deal_0008",
+    "occurred_at": "2026-08-16T04:57:13.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0032",
+    "deal_id": "deal_0008",
+    "occurred_at": "2026-09-03T16:38:13.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0033",
+    "deal_id": "deal_0008",
+    "occurred_at": "2026-09-12T17:29:13.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0034",
+    "deal_id": "deal_0009",
+    "occurred_at": "2026-07-12T17:39:19.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0035",
+    "deal_id": "deal_0009",
+    "occurred_at": "2026-07-20T02:19:19.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0036",
+    "deal_id": "deal_0009",
+    "occurred_at": "2026-08-02T09:11:19.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0037",
+    "deal_id": "deal_0009",
+    "occurred_at": "2026-08-23T21:39:19.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0038",
+    "deal_id": "deal_0009",
+    "occurred_at": "2026-09-19T18:41:19.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0039",
+    "deal_id": "deal_0009",
+    "occurred_at": "2026-10-10T15:35:53.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0040",
+    "deal_id": "deal_0010",
+    "occurred_at": "2026-10-12T16:34:30.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0041",
+    "deal_id": "deal_0010",
+    "occurred_at": "2026-10-14T10:24:30.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0042",
+    "deal_id": "deal_0010",
+    "occurred_at": "2026-10-17T19:23:30.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0043",
+    "deal_id": "deal_0010",
+    "occurred_at": "2026-10-21T17:18:30.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0044",
+    "deal_id": "deal_0011",
+    "occurred_at": "2026-09-14T04:33:16.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0045",
+    "deal_id": "deal_0011",
+    "occurred_at": "2026-09-23T08:53:16.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0046",
+    "deal_id": "deal_0011",
+    "occurred_at": "2026-10-16T15:09:16.000Z",
+    "from_stage": "qualified",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0047",
+    "deal_id": "deal_0013",
+    "occurred_at": "2026-08-11T15:20:48.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0048",
+    "deal_id": "deal_0013",
+    "occurred_at": "2026-08-16T00:41:48.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0049",
+    "deal_id": "deal_0013",
+    "occurred_at": "2026-08-28T13:14:48.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0050",
+    "deal_id": "deal_0013",
+    "occurred_at": "2026-09-08T07:45:48.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0051",
+    "deal_id": "deal_0013",
+    "occurred_at": "2026-10-03T15:20:48.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0052",
+    "deal_id": "deal_0015",
+    "occurred_at": "2026-08-19T08:30:10.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0053",
+    "deal_id": "deal_0015",
+    "occurred_at": "2026-08-21T08:59:10.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0054",
+    "deal_id": "deal_0015",
+    "occurred_at": "2026-08-25T10:10:10.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0055",
+    "deal_id": "deal_0015",
+    "occurred_at": "2026-08-31T02:03:10.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0056",
+    "deal_id": "deal_0015",
+    "occurred_at": "2026-10-30T08:30:10.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0057",
+    "deal_id": "deal_0016",
+    "occurred_at": "2026-08-30T05:51:12.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0058",
+    "deal_id": "deal_0016",
+    "occurred_at": "2026-08-31T21:49:12.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0059",
+    "deal_id": "deal_0016",
+    "occurred_at": "2026-09-06T07:02:12.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0060",
+    "deal_id": "deal_0016",
+    "occurred_at": "2026-09-12T04:06:12.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0061",
+    "deal_id": "deal_0016",
+    "occurred_at": "2026-09-19T09:15:12.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0062",
+    "deal_id": "deal_0016",
+    "occurred_at": "2026-09-24T05:51:12.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0063",
+    "deal_id": "deal_0017",
+    "occurred_at": "2026-07-19T09:09:32.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0064",
+    "deal_id": "deal_0017",
+    "occurred_at": "2026-07-28T01:52:32.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0065",
+    "deal_id": "deal_0017",
+    "occurred_at": "2026-08-15T16:16:32.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0066",
+    "deal_id": "deal_0017",
+    "occurred_at": "2026-09-06T07:21:32.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0067",
+    "deal_id": "deal_0017",
+    "occurred_at": "2026-09-25T19:07:32.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0068",
+    "deal_id": "deal_0017",
+    "occurred_at": "2026-10-15T12:32:55.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0069",
+    "deal_id": "deal_0018",
+    "occurred_at": "2026-06-30T19:58:01.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0070",
+    "deal_id": "deal_0018",
+    "occurred_at": "2026-07-02T15:43:01.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0071",
+    "deal_id": "deal_0018",
+    "occurred_at": "2026-07-07T04:32:01.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0072",
+    "deal_id": "deal_0018",
+    "occurred_at": "2026-07-10T18:53:01.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0073",
+    "deal_id": "deal_0018",
+    "occurred_at": "2026-07-21T15:55:01.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0074",
+    "deal_id": "deal_0018",
+    "occurred_at": "2026-07-26T19:58:01.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0075",
+    "deal_id": "deal_0019",
+    "occurred_at": "2026-08-01T02:12:52.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0076",
+    "deal_id": "deal_0019",
+    "occurred_at": "2026-08-06T07:15:52.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0077",
+    "deal_id": "deal_0019",
+    "occurred_at": "2026-08-14T20:36:52.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0078",
+    "deal_id": "deal_0019",
+    "occurred_at": "2026-08-27T19:06:52.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0079",
+    "deal_id": "deal_0019",
+    "occurred_at": "2026-09-20T03:22:52.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0080",
+    "deal_id": "deal_0019",
+    "occurred_at": "2026-10-07T11:31:52.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0081",
+    "deal_id": "deal_0021",
+    "occurred_at": "2026-07-19T07:30:20.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0082",
+    "deal_id": "deal_0021",
+    "occurred_at": "2026-07-21T07:57:20.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0083",
+    "deal_id": "deal_0021",
+    "occurred_at": "2026-07-25T14:33:20.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0084",
+    "deal_id": "deal_0021",
+    "occurred_at": "2026-07-31T00:46:20.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0085",
+    "deal_id": "deal_0021",
+    "occurred_at": "2026-08-07T02:26:20.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0086",
+    "deal_id": "deal_0021",
+    "occurred_at": "2026-08-14T07:30:20.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0087",
+    "deal_id": "deal_0022",
+    "occurred_at": "2026-10-18T23:08:31.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0088",
+    "deal_id": "deal_0023",
+    "occurred_at": "2026-09-26T07:50:19.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0089",
+    "deal_id": "deal_0023",
+    "occurred_at": "2026-10-06T06:47:19.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0090",
+    "deal_id": "deal_0023",
+    "occurred_at": "2026-10-20T07:50:19.000Z",
+    "from_stage": "qualified",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0091",
+    "deal_id": "deal_0024",
+    "occurred_at": "2026-09-19T00:23:07.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0092",
+    "deal_id": "deal_0024",
+    "occurred_at": "2026-09-20T20:29:07.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0093",
+    "deal_id": "deal_0024",
+    "occurred_at": "2026-09-23T16:54:07.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0094",
+    "deal_id": "deal_0024",
+    "occurred_at": "2026-09-26T19:50:07.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0095",
+    "deal_id": "deal_0024",
+    "occurred_at": "2026-10-05T00:23:07.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0096",
+    "deal_id": "deal_0026",
+    "occurred_at": "2026-07-13T20:13:16.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0097",
+    "deal_id": "deal_0026",
+    "occurred_at": "2026-07-16T17:45:16.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0098",
+    "deal_id": "deal_0026",
+    "occurred_at": "2026-07-22T12:59:16.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0099",
+    "deal_id": "deal_0026",
+    "occurred_at": "2026-07-27T08:41:16.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0100",
+    "deal_id": "deal_0026",
+    "occurred_at": "2026-08-09T02:40:16.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0101",
+    "deal_id": "deal_0026",
+    "occurred_at": "2026-08-17T20:12:16.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0102",
+    "deal_id": "deal_0027",
+    "occurred_at": "2026-09-04T20:17:51.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0103",
+    "deal_id": "deal_0027",
+    "occurred_at": "2026-09-05T23:16:51.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0104",
+    "deal_id": "deal_0027",
+    "occurred_at": "2026-09-07T20:20:51.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0105",
+    "deal_id": "deal_0027",
+    "occurred_at": "2026-09-10T01:08:51.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0106",
+    "deal_id": "deal_0027",
+    "occurred_at": "2026-09-13T16:47:51.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0107",
+    "deal_id": "deal_0027",
+    "occurred_at": "2026-09-16T20:17:51.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0108",
+    "deal_id": "deal_0028",
+    "occurred_at": "2026-10-16T17:30:08.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0109",
+    "deal_id": "deal_0028",
+    "occurred_at": "2026-10-17T21:21:08.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0110",
+    "deal_id": "deal_0028",
+    "occurred_at": "2026-10-20T15:23:08.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0111",
+    "deal_id": "deal_0028",
+    "occurred_at": "2026-10-23T14:25:08.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0112",
+    "deal_id": "deal_0029",
+    "occurred_at": "2026-06-19T09:45:07.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0113",
+    "deal_id": "deal_0029",
+    "occurred_at": "2026-06-27T05:50:07.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0114",
+    "deal_id": "deal_0029",
+    "occurred_at": "2026-07-13T08:26:07.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0115",
+    "deal_id": "deal_0029",
+    "occurred_at": "2026-07-27T03:49:07.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0116",
+    "deal_id": "deal_0029",
+    "occurred_at": "2026-08-27T23:19:07.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0117",
+    "deal_id": "deal_0029",
+    "occurred_at": "2026-09-09T15:39:07.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0118",
+    "deal_id": "deal_0030",
+    "occurred_at": "2026-09-09T07:05:26.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0119",
+    "deal_id": "deal_0030",
+    "occurred_at": "2026-09-10T22:27:26.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0120",
+    "deal_id": "deal_0030",
+    "occurred_at": "2026-09-14T02:44:26.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0121",
+    "deal_id": "deal_0030",
+    "occurred_at": "2026-09-17T10:32:26.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0122",
+    "deal_id": "deal_0030",
+    "occurred_at": "2026-10-30T07:05:26.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0123",
+    "deal_id": "deal_0031",
+    "occurred_at": "2026-09-13T12:05:04.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0124",
+    "deal_id": "deal_0031",
+    "occurred_at": "2026-09-17T07:08:04.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0125",
+    "deal_id": "deal_0031",
+    "occurred_at": "2026-09-24T11:15:04.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0126",
+    "deal_id": "deal_0031",
+    "occurred_at": "2026-10-02T20:36:04.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0127",
+    "deal_id": "deal_0031",
+    "occurred_at": "2026-10-10T23:21:04.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0128",
+    "deal_id": "deal_0031",
+    "occurred_at": "2026-10-19T00:55:04.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0129",
+    "deal_id": "deal_0032",
+    "occurred_at": "2026-07-09T19:03:56.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0130",
+    "deal_id": "deal_0032",
+    "occurred_at": "2026-07-20T07:15:56.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0131",
+    "deal_id": "deal_0032",
+    "occurred_at": "2026-08-05T12:31:56.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0132",
+    "deal_id": "deal_0032",
+    "occurred_at": "2026-08-20T19:03:56.000Z",
+    "from_stage": "discovery",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0133",
+    "deal_id": "deal_0033",
+    "occurred_at": "2025-12-17T09:08:10.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0134",
+    "deal_id": "deal_0033",
+    "occurred_at": "2025-12-20T16:07:10.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0135",
+    "deal_id": "deal_0033",
+    "occurred_at": "2025-12-28T06:52:10.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0136",
+    "deal_id": "deal_0033",
+    "occurred_at": "2026-01-04T19:52:10.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0137",
+    "deal_id": "deal_0033",
+    "occurred_at": "2026-01-23T04:17:10.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0138",
+    "deal_id": "deal_0033",
+    "occurred_at": "2026-01-31T09:08:10.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0139",
+    "deal_id": "deal_0034",
+    "occurred_at": "2025-12-01T14:17:33.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0140",
+    "deal_id": "deal_0034",
+    "occurred_at": "2025-12-04T15:02:33.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0141",
+    "deal_id": "deal_0034",
+    "occurred_at": "2025-12-10T11:17:33.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0142",
+    "deal_id": "deal_0034",
+    "occurred_at": "2025-12-14T15:51:33.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0143",
+    "deal_id": "deal_0034",
+    "occurred_at": "2025-12-22T10:25:33.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0144",
+    "deal_id": "deal_0034",
+    "occurred_at": "2025-12-30T14:16:33.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0145",
+    "deal_id": "deal_0035",
+    "occurred_at": "2025-11-13T06:31:36.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0146",
+    "deal_id": "deal_0035",
+    "occurred_at": "2025-11-15T00:04:36.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0147",
+    "deal_id": "deal_0035",
+    "occurred_at": "2025-11-18T05:36:36.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0148",
+    "deal_id": "deal_0035",
+    "occurred_at": "2025-11-21T19:01:36.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0149",
+    "deal_id": "deal_0035",
+    "occurred_at": "2025-11-28T22:20:36.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0150",
+    "deal_id": "deal_0035",
+    "occurred_at": "2025-12-02T06:31:36.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0151",
+    "deal_id": "deal_0036",
+    "occurred_at": "2026-08-03T21:59:54.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0152",
+    "deal_id": "deal_0036",
+    "occurred_at": "2026-08-09T21:04:54.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0153",
+    "deal_id": "deal_0036",
+    "occurred_at": "2026-08-26T06:22:54.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0154",
+    "deal_id": "deal_0036",
+    "occurred_at": "2026-09-15T00:22:54.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0155",
+    "deal_id": "deal_0036",
+    "occurred_at": "2026-10-01T17:33:54.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0156",
+    "deal_id": "deal_0036",
+    "occurred_at": "2026-10-20T04:00:54.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0157",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-08-20T08:03:18.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0158",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-08-21T10:26:18.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0159",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-08-23T19:31:18.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0160",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-08-25T18:51:18.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0161",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-08-30T08:39:18.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0162",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-09-01T19:36:18.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0163",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-09-05T15:18:18.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0164",
+    "deal_id": "deal_0037",
+    "occurred_at": "2026-09-09T08:03:18.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0165",
+    "deal_id": "deal_0038",
+    "occurred_at": "2026-01-05T09:43:34.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0166",
+    "deal_id": "deal_0038",
+    "occurred_at": "2026-02-11T23:23:34.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0167",
+    "deal_id": "deal_0038",
+    "occurred_at": "2026-05-05T11:57:34.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0168",
+    "deal_id": "deal_0038",
+    "occurred_at": "2026-08-30T18:43:34.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0169",
+    "deal_id": "deal_0039",
+    "occurred_at": "2026-05-14T10:30:17.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0170",
+    "deal_id": "deal_0039",
+    "occurred_at": "2026-05-30T18:00:17.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0171",
+    "deal_id": "deal_0039",
+    "occurred_at": "2026-07-13T05:56:17.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0172",
+    "deal_id": "deal_0039",
+    "occurred_at": "2026-08-28T15:54:17.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0173",
+    "deal_id": "deal_0039",
+    "occurred_at": "2026-10-27T12:56:17.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0174",
+    "deal_id": "deal_0040",
+    "occurred_at": "2026-06-03T00:17:50.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0175",
+    "deal_id": "deal_0040",
+    "occurred_at": "2026-06-09T23:32:50.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0176",
+    "deal_id": "deal_0040",
+    "occurred_at": "2026-06-30T00:17:50.000Z",
+    "from_stage": "qualified",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0177",
+    "deal_id": "deal_0041",
+    "occurred_at": "2026-04-26T13:24:28.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0178",
+    "deal_id": "deal_0041",
+    "occurred_at": "2026-05-30T23:39:28.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0179",
+    "deal_id": "deal_0041",
+    "occurred_at": "2026-08-03T10:55:28.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0180",
+    "deal_id": "deal_0041",
+    "occurred_at": "2026-10-14T14:59:28.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0181",
+    "deal_id": "deal_0042",
+    "occurred_at": "2026-07-16T18:13:42.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0182",
+    "deal_id": "deal_0042",
+    "occurred_at": "2026-08-07T21:28:42.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0183",
+    "deal_id": "deal_0042",
+    "occurred_at": "2026-09-07T23:47:42.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0184",
+    "deal_id": "deal_0042",
+    "occurred_at": "2026-10-20T07:54:42.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0185",
+    "deal_id": "deal_0043",
+    "occurred_at": "2026-02-12T00:19:53.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0186",
+    "deal_id": "deal_0043",
+    "occurred_at": "2026-02-14T12:17:53.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0187",
+    "deal_id": "deal_0043",
+    "occurred_at": "2026-02-20T10:25:53.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0188",
+    "deal_id": "deal_0043",
+    "occurred_at": "2026-02-25T05:42:53.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0189",
+    "deal_id": "deal_0043",
+    "occurred_at": "2026-03-05T17:06:53.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0190",
+    "deal_id": "deal_0043",
+    "occurred_at": "2026-03-12T00:19:53.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0191",
+    "deal_id": "deal_0044",
+    "occurred_at": "2026-09-10T18:34:36.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0192",
+    "deal_id": "deal_0044",
+    "occurred_at": "2026-09-17T22:20:36.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0193",
+    "deal_id": "deal_0044",
+    "occurred_at": "2026-09-28T22:01:36.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0194",
+    "deal_id": "deal_0044",
+    "occurred_at": "2026-10-19T00:25:36.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0195",
+    "deal_id": "deal_0045",
+    "occurred_at": "2026-06-18T04:03:16.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0196",
+    "deal_id": "deal_0045",
+    "occurred_at": "2026-06-19T08:16:16.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0197",
+    "deal_id": "deal_0045",
+    "occurred_at": "2026-06-22T08:55:16.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0198",
+    "deal_id": "deal_0045",
+    "occurred_at": "2026-06-25T00:26:16.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0199",
+    "deal_id": "deal_0045",
+    "occurred_at": "2026-06-30T13:07:16.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0200",
+    "deal_id": "deal_0045",
+    "occurred_at": "2026-07-03T04:03:16.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0201",
+    "deal_id": "deal_0046",
+    "occurred_at": "2026-02-26T02:56:56.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0202",
+    "deal_id": "deal_0046",
+    "occurred_at": "2026-04-01T23:47:56.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0203",
+    "deal_id": "deal_0046",
+    "occurred_at": "2026-07-08T20:17:56.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0204",
+    "deal_id": "deal_0046",
+    "occurred_at": "2026-10-17T05:46:56.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0205",
+    "deal_id": "deal_0047",
+    "occurred_at": "2026-02-09T17:05:19.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0206",
+    "deal_id": "deal_0047",
+    "occurred_at": "2026-02-11T10:05:19.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0207",
+    "deal_id": "deal_0047",
+    "occurred_at": "2026-02-14T17:11:19.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0208",
+    "deal_id": "deal_0047",
+    "occurred_at": "2026-02-18T03:06:19.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0209",
+    "deal_id": "deal_0047",
+    "occurred_at": "2026-02-26T17:05:19.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0210",
+    "deal_id": "deal_0048",
+    "occurred_at": "2026-01-05T21:10:26.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0211",
+    "deal_id": "deal_0048",
+    "occurred_at": "2026-01-10T02:23:26.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0212",
+    "deal_id": "deal_0048",
+    "occurred_at": "2026-01-15T20:16:26.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0213",
+    "deal_id": "deal_0048",
+    "occurred_at": "2026-01-24T21:18:26.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0214",
+    "deal_id": "deal_0048",
+    "occurred_at": "2026-02-03T10:24:26.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0215",
+    "deal_id": "deal_0048",
+    "occurred_at": "2026-02-12T21:10:26.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0216",
+    "deal_id": "deal_0049",
+    "occurred_at": "2026-05-15T11:39:37.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0217",
+    "deal_id": "deal_0049",
+    "occurred_at": "2026-06-08T00:42:37.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0218",
+    "deal_id": "deal_0049",
+    "occurred_at": "2026-08-18T08:27:37.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0219",
+    "deal_id": "deal_0049",
+    "occurred_at": "2026-10-27T15:40:37.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0220",
+    "deal_id": "deal_0050",
+    "occurred_at": "2025-11-26T05:45:58.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0221",
+    "deal_id": "deal_0050",
+    "occurred_at": "2025-11-30T23:03:58.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0222",
+    "deal_id": "deal_0050",
+    "occurred_at": "2025-12-12T15:34:58.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0223",
+    "deal_id": "deal_0050",
+    "occurred_at": "2025-12-21T21:34:58.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0224",
+    "deal_id": "deal_0050",
+    "occurred_at": "2026-01-07T15:55:58.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0225",
+    "deal_id": "deal_0050",
+    "occurred_at": "2026-01-20T05:45:58.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0226",
+    "deal_id": "deal_0051",
+    "occurred_at": "2026-03-14T05:51:19.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0227",
+    "deal_id": "deal_0051",
+    "occurred_at": "2026-04-25T15:56:19.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0228",
+    "deal_id": "deal_0051",
+    "occurred_at": "2026-07-28T00:57:19.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0229",
+    "deal_id": "deal_0051",
+    "occurred_at": "2026-10-24T22:29:19.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0230",
+    "deal_id": "deal_0052",
+    "occurred_at": "2026-06-04T10:41:07.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0231",
+    "deal_id": "deal_0052",
+    "occurred_at": "2026-06-15T20:16:07.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0232",
+    "deal_id": "deal_0052",
+    "occurred_at": "2026-07-07T15:13:07.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0233",
+    "deal_id": "deal_0052",
+    "occurred_at": "2026-07-22T18:29:07.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0234",
+    "deal_id": "deal_0052",
+    "occurred_at": "2026-08-20T11:18:07.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0235",
+    "deal_id": "deal_0052",
+    "occurred_at": "2026-09-08T10:41:07.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0236",
+    "deal_id": "deal_0053",
+    "occurred_at": "2026-08-16T15:34:01.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0237",
+    "deal_id": "deal_0053",
+    "occurred_at": "2026-08-18T14:29:01.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0238",
+    "deal_id": "deal_0053",
+    "occurred_at": "2026-08-23T17:43:01.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0239",
+    "deal_id": "deal_0053",
+    "occurred_at": "2026-08-30T22:24:01.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0240",
+    "deal_id": "deal_0053",
+    "occurred_at": "2026-09-11T15:11:01.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0241",
+    "deal_id": "deal_0053",
+    "occurred_at": "2026-09-17T15:49:01.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0242",
+    "deal_id": "deal_0054",
+    "occurred_at": "2025-11-09T18:52:11.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0243",
+    "deal_id": "deal_0054",
+    "occurred_at": "2025-12-27T00:41:11.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0244",
+    "deal_id": "deal_0054",
+    "occurred_at": "2026-02-27T05:15:11.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0245",
+    "deal_id": "deal_0054",
+    "occurred_at": "2026-06-08T09:16:11.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0246",
+    "deal_id": "deal_0054",
+    "occurred_at": "2026-10-22T05:51:11.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0247",
+    "deal_id": "deal_0055",
+    "occurred_at": "2026-06-22T22:10:17.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0248",
+    "deal_id": "deal_0055",
+    "occurred_at": "2026-07-01T18:24:17.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0249",
+    "deal_id": "deal_0055",
+    "occurred_at": "2026-07-17T11:18:17.000Z",
+    "from_stage": "qualified",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0250",
+    "deal_id": "deal_0055",
+    "occurred_at": "2026-08-26T07:39:17.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0251",
+    "deal_id": "deal_0055",
+    "occurred_at": "2026-09-14T10:55:17.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0252",
+    "deal_id": "deal_0056",
+    "occurred_at": "2026-07-15T14:39:13.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0253",
+    "deal_id": "deal_0056",
+    "occurred_at": "2026-07-18T20:13:13.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0254",
+    "deal_id": "deal_0056",
+    "occurred_at": "2026-07-26T15:20:13.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0255",
+    "deal_id": "deal_0056",
+    "occurred_at": "2026-08-06T08:18:13.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0256",
+    "deal_id": "deal_0056",
+    "occurred_at": "2026-10-30T14:39:13.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0257",
+    "deal_id": "deal_0057",
+    "occurred_at": "2026-02-16T14:30:02.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0258",
+    "deal_id": "deal_0057",
+    "occurred_at": "2026-02-20T11:52:02.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0259",
+    "deal_id": "deal_0057",
+    "occurred_at": "2026-03-02T03:07:02.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0260",
+    "deal_id": "deal_0057",
+    "occurred_at": "2026-03-08T20:20:02.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0261",
+    "deal_id": "deal_0057",
+    "occurred_at": "2026-03-24T19:18:02.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0262",
+    "deal_id": "deal_0057",
+    "occurred_at": "2026-04-06T14:30:02.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0263",
+    "deal_id": "deal_0058",
+    "occurred_at": "2026-01-13T19:58:38.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0264",
+    "deal_id": "deal_0058",
+    "occurred_at": "2026-02-01T23:29:38.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0265",
+    "deal_id": "deal_0058",
+    "occurred_at": "2026-03-10T19:43:38.000Z",
+    "from_stage": "qualified",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0266",
+    "deal_id": "deal_0058",
+    "occurred_at": "2026-07-13T22:13:38.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0267",
+    "deal_id": "deal_0058",
+    "occurred_at": "2026-10-06T15:10:38.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0268",
+    "deal_id": "deal_0059",
+    "occurred_at": "2026-04-04T03:19:12.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0269",
+    "deal_id": "deal_0059",
+    "occurred_at": "2026-04-07T18:19:12.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0270",
+    "deal_id": "deal_0059",
+    "occurred_at": "2026-04-14T07:01:12.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0271",
+    "deal_id": "deal_0059",
+    "occurred_at": "2026-04-26T02:23:12.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0272",
+    "deal_id": "deal_0059",
+    "occurred_at": "2026-05-13T18:33:12.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0273",
+    "deal_id": "deal_0059",
+    "occurred_at": "2026-05-24T03:19:12.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0274",
+    "deal_id": "deal_0060",
+    "occurred_at": "2025-12-01T03:38:57.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0275",
+    "deal_id": "deal_0060",
+    "occurred_at": "2025-12-04T15:25:57.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0276",
+    "deal_id": "deal_0060",
+    "occurred_at": "2025-12-12T12:26:57.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0277",
+    "deal_id": "deal_0060",
+    "occurred_at": "2025-12-23T03:37:57.000Z",
+    "from_stage": "discovery",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0278",
+    "deal_id": "deal_0061",
+    "occurred_at": "2026-06-15T12:22:48.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0279",
+    "deal_id": "deal_0061",
+    "occurred_at": "2026-06-27T23:21:48.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0280",
+    "deal_id": "deal_0061",
+    "occurred_at": "2026-07-17T18:01:48.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0281",
+    "deal_id": "deal_0061",
+    "occurred_at": "2026-08-04T16:34:48.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0282",
+    "deal_id": "deal_0061",
+    "occurred_at": "2026-09-04T15:20:48.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0283",
+    "deal_id": "deal_0061",
+    "occurred_at": "2026-09-25T20:28:48.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0284",
+    "deal_id": "deal_0062",
+    "occurred_at": "2026-01-11T17:27:21.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0285",
+    "deal_id": "deal_0062",
+    "occurred_at": "2026-01-17T05:18:21.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0286",
+    "deal_id": "deal_0062",
+    "occurred_at": "2026-01-26T17:13:21.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0287",
+    "deal_id": "deal_0062",
+    "occurred_at": "2026-02-06T15:20:21.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0288",
+    "deal_id": "deal_0062",
+    "occurred_at": "2026-02-24T04:29:21.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0289",
+    "deal_id": "deal_0062",
+    "occurred_at": "2026-03-10T17:27:21.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0290",
+    "deal_id": "deal_0063",
+    "occurred_at": "2026-01-05T15:42:16.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0291",
+    "deal_id": "deal_0063",
+    "occurred_at": "2026-01-10T04:20:16.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0292",
+    "deal_id": "deal_0063",
+    "occurred_at": "2026-01-20T21:11:16.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0293",
+    "deal_id": "deal_0063",
+    "occurred_at": "2026-02-06T15:31:16.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0294",
+    "deal_id": "deal_0063",
+    "occurred_at": "2026-07-04T02:30:16.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0295",
+    "deal_id": "deal_0063",
+    "occurred_at": "2026-07-15T15:42:16.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0296",
+    "deal_id": "deal_0064",
+    "occurred_at": "2026-09-17T19:55:22.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0297",
+    "deal_id": "deal_0064",
+    "occurred_at": "2026-09-23T02:48:22.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0298",
+    "deal_id": "deal_0064",
+    "occurred_at": "2026-09-30T21:46:22.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0299",
+    "deal_id": "deal_0064",
+    "occurred_at": "2026-10-09T19:54:22.000Z",
+    "from_stage": "discovery",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0300",
+    "deal_id": "deal_0065",
+    "occurred_at": "2026-01-10T05:49:11.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0301",
+    "deal_id": "deal_0065",
+    "occurred_at": "2026-01-12T08:04:11.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0302",
+    "deal_id": "deal_0065",
+    "occurred_at": "2026-01-16T10:59:11.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0303",
+    "deal_id": "deal_0065",
+    "occurred_at": "2026-01-23T11:45:11.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0304",
+    "deal_id": "deal_0065",
+    "occurred_at": "2026-01-31T15:07:11.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0305",
+    "deal_id": "deal_0065",
+    "occurred_at": "2026-02-06T05:48:11.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0306",
+    "deal_id": "deal_0066",
+    "occurred_at": "2026-07-09T03:09:48.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0307",
+    "deal_id": "deal_0066",
+    "occurred_at": "2026-07-11T04:43:48.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0308",
+    "deal_id": "deal_0066",
+    "occurred_at": "2026-07-17T01:12:48.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0309",
+    "deal_id": "deal_0066",
+    "occurred_at": "2026-07-22T18:35:48.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0310",
+    "deal_id": "deal_0066",
+    "occurred_at": "2026-10-05T03:44:48.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0311",
+    "deal_id": "deal_0066",
+    "occurred_at": "2026-10-13T08:54:48.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0312",
+    "deal_id": "deal_0067",
+    "occurred_at": "2026-10-01T08:23:00.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0313",
+    "deal_id": "deal_0067",
+    "occurred_at": "2026-10-06T19:53:00.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0314",
+    "deal_id": "deal_0067",
+    "occurred_at": "2026-10-21T11:51:00.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0315",
+    "deal_id": "deal_0068",
+    "occurred_at": "2026-04-11T13:56:20.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0316",
+    "deal_id": "deal_0068",
+    "occurred_at": "2026-04-16T06:05:20.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0317",
+    "deal_id": "deal_0068",
+    "occurred_at": "2026-04-22T18:29:20.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0318",
+    "deal_id": "deal_0068",
+    "occurred_at": "2026-05-03T08:08:20.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0319",
+    "deal_id": "deal_0068",
+    "occurred_at": "2026-05-18T13:56:20.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0320",
+    "deal_id": "deal_0069",
+    "occurred_at": "2026-02-04T08:53:21.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0321",
+    "deal_id": "deal_0069",
+    "occurred_at": "2026-02-19T19:58:21.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0322",
+    "deal_id": "deal_0069",
+    "occurred_at": "2026-03-27T17:01:21.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0323",
+    "deal_id": "deal_0069",
+    "occurred_at": "2026-04-30T01:25:21.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0324",
+    "deal_id": "deal_0069",
+    "occurred_at": "2026-08-07T10:30:21.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0325",
+    "deal_id": "deal_0069",
+    "occurred_at": "2026-10-08T22:45:21.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0326",
+    "deal_id": "deal_0070",
+    "occurred_at": "2026-03-15T02:55:23.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0327",
+    "deal_id": "deal_0070",
+    "occurred_at": "2026-04-10T13:19:23.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0328",
+    "deal_id": "deal_0070",
+    "occurred_at": "2026-06-02T01:55:23.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0329",
+    "deal_id": "deal_0070",
+    "occurred_at": "2026-07-23T12:32:23.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0330",
+    "deal_id": "deal_0070",
+    "occurred_at": "2026-10-15T22:39:23.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0331",
+    "deal_id": "deal_0071",
+    "occurred_at": "2025-12-27T09:01:03.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0332",
+    "deal_id": "deal_0071",
+    "occurred_at": "2026-01-18T15:45:03.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0333",
+    "deal_id": "deal_0071",
+    "occurred_at": "2026-03-03T15:58:03.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0334",
+    "deal_id": "deal_0071",
+    "occurred_at": "2026-04-27T01:12:03.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0335",
+    "deal_id": "deal_0071",
+    "occurred_at": "2026-08-01T09:12:03.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0336",
+    "deal_id": "deal_0071",
+    "occurred_at": "2026-10-17T21:58:32.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0337",
+    "deal_id": "deal_0072",
+    "occurred_at": "2026-03-25T14:16:09.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0338",
+    "deal_id": "deal_0072",
+    "occurred_at": "2026-03-26T23:33:09.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0339",
+    "deal_id": "deal_0072",
+    "occurred_at": "2026-03-31T12:00:09.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0340",
+    "deal_id": "deal_0072",
+    "occurred_at": "2026-04-04T05:00:09.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0341",
+    "deal_id": "deal_0072",
+    "occurred_at": "2026-04-09T21:48:09.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0342",
+    "deal_id": "deal_0072",
+    "occurred_at": "2026-04-15T14:16:09.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0343",
+    "deal_id": "deal_0073",
+    "occurred_at": "2026-03-08T16:24:27.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0344",
+    "deal_id": "deal_0073",
+    "occurred_at": "2026-04-09T17:50:27.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0345",
+    "deal_id": "deal_0073",
+    "occurred_at": "2026-05-25T11:51:27.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0346",
+    "deal_id": "deal_0073",
+    "occurred_at": "2026-07-29T17:00:27.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0347",
+    "deal_id": "deal_0073",
+    "occurred_at": "2026-10-23T08:03:27.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0348",
+    "deal_id": "deal_0074",
+    "occurred_at": "2026-01-16T15:05:49.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0349",
+    "deal_id": "deal_0074",
+    "occurred_at": "2026-03-11T09:09:49.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0350",
+    "deal_id": "deal_0074",
+    "occurred_at": "2026-07-04T07:09:49.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0351",
+    "deal_id": "deal_0074",
+    "occurred_at": "2026-10-27T14:42:49.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0352",
+    "deal_id": "deal_0075",
+    "occurred_at": "2025-12-07T01:32:18.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0353",
+    "deal_id": "deal_0075",
+    "occurred_at": "2026-01-02T20:52:18.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0354",
+    "deal_id": "deal_0075",
+    "occurred_at": "2026-02-10T01:58:18.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0355",
+    "deal_id": "deal_0075",
+    "occurred_at": "2026-03-26T11:44:18.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0356",
+    "deal_id": "deal_0075",
+    "occurred_at": "2026-08-05T21:54:18.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0357",
+    "deal_id": "deal_0075",
+    "occurred_at": "2026-10-21T15:58:18.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0358",
+    "deal_id": "deal_0076",
+    "occurred_at": "2026-01-12T23:54:37.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0359",
+    "deal_id": "deal_0076",
+    "occurred_at": "2026-01-17T18:43:37.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0360",
+    "deal_id": "deal_0076",
+    "occurred_at": "2026-01-26T16:12:37.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0361",
+    "deal_id": "deal_0076",
+    "occurred_at": "2026-02-09T04:13:37.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0362",
+    "deal_id": "deal_0076",
+    "occurred_at": "2026-06-08T11:54:37.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0363",
+    "deal_id": "deal_0076",
+    "occurred_at": "2026-06-19T23:54:37.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0364",
+    "deal_id": "deal_0077",
+    "occurred_at": "2026-07-16T17:16:05.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0365",
+    "deal_id": "deal_0077",
+    "occurred_at": "2026-07-18T10:36:05.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0366",
+    "deal_id": "deal_0077",
+    "occurred_at": "2026-07-21T19:05:05.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0367",
+    "deal_id": "deal_0077",
+    "occurred_at": "2026-07-25T13:26:05.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0368",
+    "deal_id": "deal_0077",
+    "occurred_at": "2026-07-31T05:46:05.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0369",
+    "deal_id": "deal_0077",
+    "occurred_at": "2026-08-04T17:15:05.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0370",
+    "deal_id": "deal_0078",
+    "occurred_at": "2026-07-17T06:44:03.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0371",
+    "deal_id": "deal_0078",
+    "occurred_at": "2026-07-22T15:45:03.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0372",
+    "deal_id": "deal_0078",
+    "occurred_at": "2026-08-02T10:06:03.000Z",
+    "from_stage": "qualified",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0373",
+    "deal_id": "deal_0078",
+    "occurred_at": "2026-08-23T14:31:03.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0374",
+    "deal_id": "deal_0078",
+    "occurred_at": "2026-09-07T06:44:03.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0375",
+    "deal_id": "deal_0079",
+    "occurred_at": "2026-07-28T00:11:12.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0376",
+    "deal_id": "deal_0079",
+    "occurred_at": "2026-08-04T22:30:12.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0377",
+    "deal_id": "deal_0079",
+    "occurred_at": "2026-08-14T16:05:12.000Z",
+    "from_stage": "qualified",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0378",
+    "deal_id": "deal_0079",
+    "occurred_at": "2026-09-19T05:06:12.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0379",
+    "deal_id": "deal_0079",
+    "occurred_at": "2026-10-05T01:02:53.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0380",
+    "deal_id": "deal_0080",
+    "occurred_at": "2026-05-11T20:10:48.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0381",
+    "deal_id": "deal_0080",
+    "occurred_at": "2026-05-16T14:10:48.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0382",
+    "deal_id": "deal_0080",
+    "occurred_at": "2026-05-24T14:44:48.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0383",
+    "deal_id": "deal_0080",
+    "occurred_at": "2026-06-04T10:58:48.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0384",
+    "deal_id": "deal_0080",
+    "occurred_at": "2026-06-18T16:02:48.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0385",
+    "deal_id": "deal_0080",
+    "occurred_at": "2026-06-30T20:10:48.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0386",
+    "deal_id": "deal_0081",
+    "occurred_at": "2026-05-08T22:53:18.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0387",
+    "deal_id": "deal_0081",
+    "occurred_at": "2026-06-08T17:36:18.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0388",
+    "deal_id": "deal_0081",
+    "occurred_at": "2026-07-31T03:28:18.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0389",
+    "deal_id": "deal_0081",
+    "occurred_at": "2026-09-14T18:29:18.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0390",
+    "deal_id": "deal_0082",
+    "occurred_at": "2025-12-07T11:14:48.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0391",
+    "deal_id": "deal_0082",
+    "occurred_at": "2026-02-14T14:00:48.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0392",
+    "deal_id": "deal_0082",
+    "occurred_at": "2026-06-27T21:58:48.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0393",
+    "deal_id": "deal_0082",
+    "occurred_at": "2026-10-24T11:11:48.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0394",
+    "deal_id": "deal_0083",
+    "occurred_at": "2026-03-23T16:01:52.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0395",
+    "deal_id": "deal_0083",
+    "occurred_at": "2026-04-10T11:25:52.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0396",
+    "deal_id": "deal_0083",
+    "occurred_at": "2026-05-16T19:57:52.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0397",
+    "deal_id": "deal_0083",
+    "occurred_at": "2026-06-26T15:20:52.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0398",
+    "deal_id": "deal_0083",
+    "occurred_at": "2026-08-24T14:59:52.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0399",
+    "deal_id": "deal_0083",
+    "occurred_at": "2026-10-04T14:06:52.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0400",
+    "deal_id": "deal_0084",
+    "occurred_at": "2026-07-24T12:51:54.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0401",
+    "deal_id": "deal_0084",
+    "occurred_at": "2026-07-26T19:12:54.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0402",
+    "deal_id": "deal_0084",
+    "occurred_at": "2026-07-31T22:57:54.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0403",
+    "deal_id": "deal_0084",
+    "occurred_at": "2026-08-07T11:57:54.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0404",
+    "deal_id": "deal_0084",
+    "occurred_at": "2026-08-16T21:39:54.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0405",
+    "deal_id": "deal_0084",
+    "occurred_at": "2026-08-25T12:50:54.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0406",
+    "deal_id": "deal_0085",
+    "occurred_at": "2026-07-05T00:14:26.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0407",
+    "deal_id": "deal_0085",
+    "occurred_at": "2026-07-12T21:17:26.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0408",
+    "deal_id": "deal_0085",
+    "occurred_at": "2026-07-30T14:32:26.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0409",
+    "deal_id": "deal_0085",
+    "occurred_at": "2026-08-14T05:40:26.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0410",
+    "deal_id": "deal_0085",
+    "occurred_at": "2026-09-12T07:26:26.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0411",
+    "deal_id": "deal_0085",
+    "occurred_at": "2026-09-27T03:15:26.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0412",
+    "deal_id": "deal_0086",
+    "occurred_at": "2026-04-16T01:50:42.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0413",
+    "deal_id": "deal_0086",
+    "occurred_at": "2026-04-17T03:51:42.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0414",
+    "deal_id": "deal_0086",
+    "occurred_at": "2026-04-19T13:23:42.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0415",
+    "deal_id": "deal_0086",
+    "occurred_at": "2026-04-21T23:30:42.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0416",
+    "deal_id": "deal_0086",
+    "occurred_at": "2026-04-26T01:50:42.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0417",
+    "deal_id": "deal_0087",
+    "occurred_at": "2026-03-24T18:51:53.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0418",
+    "deal_id": "deal_0087",
+    "occurred_at": "2026-04-05T08:26:53.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0419",
+    "deal_id": "deal_0087",
+    "occurred_at": "2026-04-25T18:51:53.000Z",
+    "from_stage": "qualified",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0420",
+    "deal_id": "deal_0088",
+    "occurred_at": "2026-05-31T10:39:14.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0421",
+    "deal_id": "deal_0088",
+    "occurred_at": "2026-06-02T12:23:14.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0422",
+    "deal_id": "deal_0088",
+    "occurred_at": "2026-06-05T21:55:14.000Z",
+    "from_stage": "qualified",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0423",
+    "deal_id": "deal_0088",
+    "occurred_at": "2026-06-14T23:34:14.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0424",
+    "deal_id": "deal_0088",
+    "occurred_at": "2026-06-18T10:39:14.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0425",
+    "deal_id": "deal_0089",
+    "occurred_at": "2026-03-05T18:21:46.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0426",
+    "deal_id": "deal_0089",
+    "occurred_at": "2026-03-08T16:53:46.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0427",
+    "deal_id": "deal_0089",
+    "occurred_at": "2026-03-15T14:53:46.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0428",
+    "deal_id": "deal_0089",
+    "occurred_at": "2026-03-25T01:19:46.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0429",
+    "deal_id": "deal_0089",
+    "occurred_at": "2026-04-12T19:05:46.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0430",
+    "deal_id": "deal_0089",
+    "occurred_at": "2026-04-22T18:20:46.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0431",
+    "deal_id": "deal_0090",
+    "occurred_at": "2025-12-29T19:26:01.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0432",
+    "deal_id": "deal_0090",
+    "occurred_at": "2025-12-31T08:18:01.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0433",
+    "deal_id": "deal_0090",
+    "occurred_at": "2026-01-04T20:51:01.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0434",
+    "deal_id": "deal_0090",
+    "occurred_at": "2026-01-08T14:20:01.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0435",
+    "deal_id": "deal_0090",
+    "occurred_at": "2026-01-18T19:21:01.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0436",
+    "deal_id": "deal_0090",
+    "occurred_at": "2026-01-25T19:25:01.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0437",
+    "deal_id": "deal_0091",
+    "occurred_at": "2026-06-15T23:40:40.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0438",
+    "deal_id": "deal_0091",
+    "occurred_at": "2026-07-09T01:12:40.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0439",
+    "deal_id": "deal_0091",
+    "occurred_at": "2026-09-07T09:25:40.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0440",
+    "deal_id": "deal_0091",
+    "occurred_at": "2026-10-20T06:18:40.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0441",
+    "deal_id": "deal_0092",
+    "occurred_at": "2025-12-15T03:37:11.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0442",
+    "deal_id": "deal_0092",
+    "occurred_at": "2025-12-20T13:32:11.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0443",
+    "deal_id": "deal_0092",
+    "occurred_at": "2025-12-29T21:10:11.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0444",
+    "deal_id": "deal_0092",
+    "occurred_at": "2026-01-10T09:51:11.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0445",
+    "deal_id": "deal_0092",
+    "occurred_at": "2026-02-15T03:36:11.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0446",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-05-31T13:26:36.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0447",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-06-07T04:49:36.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0448",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-06-25T03:45:36.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0449",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-07-10T12:50:36.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0450",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-08-05T05:41:36.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0451",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-08-23T10:25:36.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0452",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-09-26T00:00:36.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0453",
+    "deal_id": "deal_0093",
+    "occurred_at": "2026-10-14T20:48:36.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0454",
+    "deal_id": "deal_0094",
+    "occurred_at": "2026-01-19T03:15:30.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0455",
+    "deal_id": "deal_0094",
+    "occurred_at": "2026-03-05T14:00:30.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0456",
+    "deal_id": "deal_0094",
+    "occurred_at": "2026-07-10T21:00:30.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0457",
+    "deal_id": "deal_0094",
+    "occurred_at": "2026-10-19T18:24:30.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0458",
+    "deal_id": "deal_0095",
+    "occurred_at": "2026-09-07T17:52:29.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0459",
+    "deal_id": "deal_0095",
+    "occurred_at": "2026-09-09T03:26:29.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0460",
+    "deal_id": "deal_0095",
+    "occurred_at": "2026-09-11T23:38:29.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0461",
+    "deal_id": "deal_0095",
+    "occurred_at": "2026-09-14T21:48:29.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0462",
+    "deal_id": "deal_0095",
+    "occurred_at": "2026-10-30T17:52:29.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0463",
+    "deal_id": "deal_0096",
+    "occurred_at": "2026-02-08T22:32:08.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0464",
+    "deal_id": "deal_0096",
+    "occurred_at": "2026-03-08T03:31:08.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0465",
+    "deal_id": "deal_0096",
+    "occurred_at": "2026-04-29T13:35:08.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0466",
+    "deal_id": "deal_0096",
+    "occurred_at": "2026-06-09T18:32:08.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0467",
+    "deal_id": "deal_0096",
+    "occurred_at": "2026-08-12T19:55:08.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0468",
+    "deal_id": "deal_0096",
+    "occurred_at": "2026-10-04T00:53:08.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0469",
+    "deal_id": "deal_0097",
+    "occurred_at": "2026-06-17T07:50:13.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0470",
+    "deal_id": "deal_0097",
+    "occurred_at": "2026-06-19T18:04:13.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0471",
+    "deal_id": "deal_0097",
+    "occurred_at": "2026-06-23T07:44:13.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0472",
+    "deal_id": "deal_0097",
+    "occurred_at": "2026-06-26T22:43:13.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0473",
+    "deal_id": "deal_0097",
+    "occurred_at": "2026-07-05T09:20:13.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0474",
+    "deal_id": "deal_0097",
+    "occurred_at": "2026-07-10T07:50:13.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0475",
+    "deal_id": "deal_0098",
+    "occurred_at": "2025-12-25T13:41:39.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0476",
+    "deal_id": "deal_0098",
+    "occurred_at": "2026-02-10T01:23:39.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0477",
+    "deal_id": "deal_0098",
+    "occurred_at": "2026-05-23T22:41:39.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0478",
+    "deal_id": "deal_0098",
+    "occurred_at": "2026-09-16T13:12:39.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0479",
+    "deal_id": "deal_0099",
+    "occurred_at": "2026-08-27T14:38:26.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0480",
+    "deal_id": "deal_0099",
+    "occurred_at": "2026-08-30T23:59:26.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0481",
+    "deal_id": "deal_0099",
+    "occurred_at": "2026-09-04T14:19:26.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0482",
+    "deal_id": "deal_0099",
+    "occurred_at": "2026-09-12T09:10:26.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0483",
+    "deal_id": "deal_0099",
+    "occurred_at": "2026-09-25T11:45:26.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0484",
+    "deal_id": "deal_0099",
+    "occurred_at": "2026-10-05T11:49:26.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0485",
+    "deal_id": "deal_0100",
+    "occurred_at": "2026-06-29T09:42:07.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0486",
+    "deal_id": "deal_0100",
+    "occurred_at": "2026-07-13T23:49:07.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0487",
+    "deal_id": "deal_0100",
+    "occurred_at": "2026-08-05T18:37:07.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0488",
+    "deal_id": "deal_0100",
+    "occurred_at": "2026-08-28T17:49:07.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0489",
+    "deal_id": "deal_0100",
+    "occurred_at": "2026-10-29T16:16:07.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0490",
+    "deal_id": "deal_0101",
+    "occurred_at": "2026-06-25T06:46:43.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0491",
+    "deal_id": "deal_0101",
+    "occurred_at": "2026-07-16T22:46:43.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0492",
+    "deal_id": "deal_0101",
+    "occurred_at": "2026-08-31T11:40:43.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0493",
+    "deal_id": "deal_0101",
+    "occurred_at": "2026-10-18T01:30:43.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0494",
+    "deal_id": "deal_0102",
+    "occurred_at": "2026-08-25T13:04:38.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0495",
+    "deal_id": "deal_0102",
+    "occurred_at": "2026-08-29T03:41:38.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0496",
+    "deal_id": "deal_0102",
+    "occurred_at": "2026-09-08T20:54:38.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0497",
+    "deal_id": "deal_0102",
+    "occurred_at": "2026-09-17T03:55:38.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0498",
+    "deal_id": "deal_0102",
+    "occurred_at": "2026-10-11T11:17:38.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0499",
+    "deal_id": "deal_0103",
+    "occurred_at": "2026-06-10T18:54:05.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0500",
+    "deal_id": "deal_0103",
+    "occurred_at": "2026-06-17T00:29:05.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0501",
+    "deal_id": "deal_0103",
+    "occurred_at": "2026-07-02T02:14:05.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0502",
+    "deal_id": "deal_0103",
+    "occurred_at": "2026-07-19T06:11:05.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0503",
+    "deal_id": "deal_0103",
+    "occurred_at": "2026-08-18T02:38:05.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0504",
+    "deal_id": "deal_0103",
+    "occurred_at": "2026-09-03T20:51:04.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0505",
+    "deal_id": "deal_0104",
+    "occurred_at": "2026-04-07T01:28:11.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0506",
+    "deal_id": "deal_0104",
+    "occurred_at": "2026-04-09T16:09:11.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0507",
+    "deal_id": "deal_0104",
+    "occurred_at": "2026-04-14T04:09:11.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0508",
+    "deal_id": "deal_0104",
+    "occurred_at": "2026-04-20T23:22:11.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0509",
+    "deal_id": "deal_0104",
+    "occurred_at": "2026-05-05T08:05:11.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0510",
+    "deal_id": "deal_0104",
+    "occurred_at": "2026-05-12T01:28:11.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0511",
+    "deal_id": "deal_0105",
+    "occurred_at": "2026-09-12T18:02:55.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0512",
+    "deal_id": "deal_0105",
+    "occurred_at": "2026-09-16T02:46:55.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0513",
+    "deal_id": "deal_0105",
+    "occurred_at": "2026-09-24T06:00:55.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0514",
+    "deal_id": "deal_0105",
+    "occurred_at": "2026-09-30T02:02:55.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0515",
+    "deal_id": "deal_0105",
+    "occurred_at": "2026-10-11T18:02:55.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0516",
+    "deal_id": "deal_0106",
+    "occurred_at": "2026-07-07T13:08:33.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0517",
+    "deal_id": "deal_0106",
+    "occurred_at": "2026-07-15T13:42:33.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0518",
+    "deal_id": "deal_0106",
+    "occurred_at": "2026-07-30T19:41:33.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0519",
+    "deal_id": "deal_0106",
+    "occurred_at": "2026-08-17T23:52:33.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0520",
+    "deal_id": "deal_0106",
+    "occurred_at": "2026-09-13T08:34:33.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0521",
+    "deal_id": "deal_0106",
+    "occurred_at": "2026-09-28T18:42:33.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0522",
+    "deal_id": "deal_0107",
+    "occurred_at": "2026-09-20T09:09:26.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0523",
+    "deal_id": "deal_0107",
+    "occurred_at": "2026-09-22T00:31:26.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0524",
+    "deal_id": "deal_0107",
+    "occurred_at": "2026-09-26T09:19:26.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0525",
+    "deal_id": "deal_0107",
+    "occurred_at": "2026-10-01T05:11:26.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0526",
+    "deal_id": "deal_0107",
+    "occurred_at": "2026-10-06T21:29:25.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0527",
+    "deal_id": "deal_0108",
+    "occurred_at": "2025-12-02T01:31:35.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0528",
+    "deal_id": "deal_0108",
+    "occurred_at": "2025-12-03T10:55:35.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0529",
+    "deal_id": "deal_0108",
+    "occurred_at": "2025-12-06T14:38:35.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0530",
+    "deal_id": "deal_0108",
+    "occurred_at": "2025-12-10T02:22:35.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0531",
+    "deal_id": "deal_0108",
+    "occurred_at": "2025-12-15T01:31:35.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0532",
+    "deal_id": "deal_0109",
+    "occurred_at": "2026-07-31T14:36:10.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0533",
+    "deal_id": "deal_0109",
+    "occurred_at": "2026-08-01T07:56:10.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0534",
+    "deal_id": "deal_0109",
+    "occurred_at": "2026-08-02T16:12:10.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0535",
+    "deal_id": "deal_0109",
+    "occurred_at": "2026-08-04T04:24:10.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0536",
+    "deal_id": "deal_0109",
+    "occurred_at": "2026-08-06T15:46:10.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0537",
+    "deal_id": "deal_0109",
+    "occurred_at": "2026-08-08T14:36:10.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0538",
+    "deal_id": "deal_0110",
+    "occurred_at": "2026-01-30T09:26:22.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0539",
+    "deal_id": "deal_0110",
+    "occurred_at": "2026-01-30T12:26:22.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0540",
+    "deal_id": "deal_0110",
+    "occurred_at": "2026-01-30T17:26:22.000Z",
+    "from_stage": "qualified",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0541",
+    "deal_id": "deal_0111",
+    "occurred_at": "2026-01-01T23:19:18.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0542",
+    "deal_id": "deal_0111",
+    "occurred_at": "2026-01-06T23:55:18.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0543",
+    "deal_id": "deal_0111",
+    "occurred_at": "2026-01-22T08:57:18.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0544",
+    "deal_id": "deal_0111",
+    "occurred_at": "2026-02-09T01:29:18.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0545",
+    "deal_id": "deal_0111",
+    "occurred_at": "2026-03-16T17:41:18.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0546",
+    "deal_id": "deal_0111",
+    "occurred_at": "2026-04-01T23:19:18.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0547",
+    "deal_id": "deal_0112",
+    "occurred_at": "2026-02-01T00:13:54.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0548",
+    "deal_id": "deal_0112",
+    "occurred_at": "2026-02-03T02:55:54.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0549",
+    "deal_id": "deal_0112",
+    "occurred_at": "2026-02-06T12:27:54.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0550",
+    "deal_id": "deal_0112",
+    "occurred_at": "2026-02-11T15:37:54.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0551",
+    "deal_id": "deal_0112",
+    "occurred_at": "2026-02-22T08:39:54.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0552",
+    "deal_id": "deal_0112",
+    "occurred_at": "2026-02-27T00:13:54.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0553",
+    "deal_id": "deal_0113",
+    "occurred_at": "2026-04-27T04:06:29.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0554",
+    "deal_id": "deal_0113",
+    "occurred_at": "2026-06-05T20:22:29.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0555",
+    "deal_id": "deal_0113",
+    "occurred_at": "2026-08-03T13:45:29.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0556",
+    "deal_id": "deal_0113",
+    "occurred_at": "2026-10-16T03:08:29.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0557",
+    "deal_id": "deal_0114",
+    "occurred_at": "2026-04-07T01:55:07.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0558",
+    "deal_id": "deal_0114",
+    "occurred_at": "2026-04-26T07:41:07.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0559",
+    "deal_id": "deal_0114",
+    "occurred_at": "2026-05-29T11:35:07.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0560",
+    "deal_id": "deal_0114",
+    "occurred_at": "2026-07-14T03:38:07.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0561",
+    "deal_id": "deal_0114",
+    "occurred_at": "2026-10-17T07:22:07.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0562",
+    "deal_id": "deal_0115",
+    "occurred_at": "2026-02-19T03:30:07.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0563",
+    "deal_id": "deal_0115",
+    "occurred_at": "2026-02-22T03:27:07.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0564",
+    "deal_id": "deal_0115",
+    "occurred_at": "2026-03-01T10:23:07.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0565",
+    "deal_id": "deal_0115",
+    "occurred_at": "2026-03-09T02:50:07.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0566",
+    "deal_id": "deal_0115",
+    "occurred_at": "2026-03-21T20:33:07.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0567",
+    "deal_id": "deal_0115",
+    "occurred_at": "2026-03-29T03:30:07.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0568",
+    "deal_id": "deal_0116",
+    "occurred_at": "2025-12-05T18:25:16.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0569",
+    "deal_id": "deal_0116",
+    "occurred_at": "2025-12-07T08:53:16.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0570",
+    "deal_id": "deal_0116",
+    "occurred_at": "2025-12-12T18:18:16.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0571",
+    "deal_id": "deal_0116",
+    "occurred_at": "2025-12-18T18:18:16.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0572",
+    "deal_id": "deal_0116",
+    "occurred_at": "2025-12-28T01:11:16.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0573",
+    "deal_id": "deal_0116",
+    "occurred_at": "2026-01-02T18:25:16.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0574",
+    "deal_id": "deal_0117",
+    "occurred_at": "2025-12-10T01:15:49.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0575",
+    "deal_id": "deal_0117",
+    "occurred_at": "2025-12-11T23:10:49.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0576",
+    "deal_id": "deal_0117",
+    "occurred_at": "2025-12-14T22:52:49.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0577",
+    "deal_id": "deal_0117",
+    "occurred_at": "2025-12-18T05:42:49.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0578",
+    "deal_id": "deal_0117",
+    "occurred_at": "2025-12-23T00:38:49.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0579",
+    "deal_id": "deal_0117",
+    "occurred_at": "2025-12-27T01:15:49.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0580",
+    "deal_id": "deal_0118",
+    "occurred_at": "2026-01-18T17:25:00.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0581",
+    "deal_id": "deal_0118",
+    "occurred_at": "2026-03-12T16:30:00.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0582",
+    "deal_id": "deal_0118",
+    "occurred_at": "2026-06-12T19:53:00.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0583",
+    "deal_id": "deal_0118",
+    "occurred_at": "2026-10-14T18:24:00.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0584",
+    "deal_id": "deal_0119",
+    "occurred_at": "2026-04-18T09:30:12.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0585",
+    "deal_id": "deal_0119",
+    "occurred_at": "2026-05-15T00:45:12.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0586",
+    "deal_id": "deal_0119",
+    "occurred_at": "2026-07-25T13:04:12.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0587",
+    "deal_id": "deal_0119",
+    "occurred_at": "2026-10-14T10:25:12.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0588",
+    "deal_id": "deal_0120",
+    "occurred_at": "2026-10-03T00:33:46.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0589",
+    "deal_id": "deal_0120",
+    "occurred_at": "2026-10-05T15:16:46.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0590",
+    "deal_id": "deal_0120",
+    "occurred_at": "2026-10-11T11:57:46.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0591",
+    "deal_id": "deal_0120",
+    "occurred_at": "2026-10-18T13:04:46.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0592",
+    "deal_id": "deal_0120",
+    "occurred_at": "2026-10-30T00:33:46.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0593",
+    "deal_id": "deal_0121",
+    "occurred_at": "2025-12-07T21:32:50.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0594",
+    "deal_id": "deal_0121",
+    "occurred_at": "2025-12-09T13:59:50.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0595",
+    "deal_id": "deal_0121",
+    "occurred_at": "2025-12-14T06:49:50.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0596",
+    "deal_id": "deal_0121",
+    "occurred_at": "2025-12-19T12:27:50.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0597",
+    "deal_id": "deal_0121",
+    "occurred_at": "2025-12-28T06:21:50.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0598",
+    "deal_id": "deal_0121",
+    "occurred_at": "2026-01-01T21:32:50.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0599",
+    "deal_id": "deal_0122",
+    "occurred_at": "2026-08-20T17:38:26.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0600",
+    "deal_id": "deal_0122",
+    "occurred_at": "2026-08-21T17:16:26.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0601",
+    "deal_id": "deal_0122",
+    "occurred_at": "2026-08-23T03:02:26.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0602",
+    "deal_id": "deal_0122",
+    "occurred_at": "2026-08-25T00:24:26.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0603",
+    "deal_id": "deal_0122",
+    "occurred_at": "2026-08-27T23:28:26.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0604",
+    "deal_id": "deal_0122",
+    "occurred_at": "2026-08-29T17:38:26.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0605",
+    "deal_id": "deal_0123",
+    "occurred_at": "2026-01-29T14:16:27.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0606",
+    "deal_id": "deal_0123",
+    "occurred_at": "2026-02-02T01:41:27.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0607",
+    "deal_id": "deal_0123",
+    "occurred_at": "2026-02-07T10:04:27.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0608",
+    "deal_id": "deal_0123",
+    "occurred_at": "2026-02-12T19:53:27.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0609",
+    "deal_id": "deal_0123",
+    "occurred_at": "2026-02-22T17:03:27.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0610",
+    "deal_id": "deal_0123",
+    "occurred_at": "2026-03-01T14:15:27.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0611",
+    "deal_id": "deal_0124",
+    "occurred_at": "2026-07-30T19:21:37.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0612",
+    "deal_id": "deal_0124",
+    "occurred_at": "2026-08-27T16:59:37.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0613",
+    "deal_id": "deal_0124",
+    "occurred_at": "2026-10-05T12:57:37.000Z",
+    "from_stage": "qualified",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0614",
+    "deal_id": "deal_0125",
+    "occurred_at": "2026-01-26T09:01:31.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0615",
+    "deal_id": "deal_0125",
+    "occurred_at": "2026-01-27T09:07:31.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0616",
+    "deal_id": "deal_0125",
+    "occurred_at": "2026-01-30T11:52:31.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0617",
+    "deal_id": "deal_0125",
+    "occurred_at": "2026-02-02T13:05:31.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0618",
+    "deal_id": "deal_0125",
+    "occurred_at": "2026-02-07T09:01:31.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0619",
+    "deal_id": "deal_0126",
+    "occurred_at": "2026-09-02T18:05:33.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0620",
+    "deal_id": "deal_0126",
+    "occurred_at": "2026-09-05T09:23:33.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0621",
+    "deal_id": "deal_0126",
+    "occurred_at": "2026-09-12T02:14:33.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0622",
+    "deal_id": "deal_0126",
+    "occurred_at": "2026-09-19T16:02:33.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0623",
+    "deal_id": "deal_0126",
+    "occurred_at": "2026-09-28T18:05:33.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0624",
+    "deal_id": "deal_0127",
+    "occurred_at": "2026-01-24T06:41:03.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0625",
+    "deal_id": "deal_0127",
+    "occurred_at": "2026-01-27T15:06:03.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0626",
+    "deal_id": "deal_0127",
+    "occurred_at": "2026-02-03T16:01:03.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0627",
+    "deal_id": "deal_0127",
+    "occurred_at": "2026-02-12T08:08:03.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0628",
+    "deal_id": "deal_0127",
+    "occurred_at": "2026-03-04T01:18:03.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0629",
+    "deal_id": "deal_0127",
+    "occurred_at": "2026-03-16T06:41:03.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0630",
+    "deal_id": "deal_0128",
+    "occurred_at": "2026-04-14T16:02:09.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0631",
+    "deal_id": "deal_0128",
+    "occurred_at": "2026-04-21T03:42:09.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0632",
+    "deal_id": "deal_0128",
+    "occurred_at": "2026-05-07T01:22:09.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0633",
+    "deal_id": "deal_0128",
+    "occurred_at": "2026-05-18T16:02:09.000Z",
+    "from_stage": "discovery",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0634",
+    "deal_id": "deal_0129",
+    "occurred_at": "2026-06-15T02:18:16.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0635",
+    "deal_id": "deal_0129",
+    "occurred_at": "2026-06-16T14:29:16.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0636",
+    "deal_id": "deal_0129",
+    "occurred_at": "2026-06-20T05:00:16.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0637",
+    "deal_id": "deal_0129",
+    "occurred_at": "2026-06-23T11:23:16.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0638",
+    "deal_id": "deal_0129",
+    "occurred_at": "2026-07-01T21:50:16.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0639",
+    "deal_id": "deal_0129",
+    "occurred_at": "2026-07-08T02:18:16.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0640",
+    "deal_id": "deal_0130",
+    "occurred_at": "2026-03-02T21:37:50.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0641",
+    "deal_id": "deal_0130",
+    "occurred_at": "2026-03-07T22:06:50.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0642",
+    "deal_id": "deal_0130",
+    "occurred_at": "2026-03-16T04:32:50.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0643",
+    "deal_id": "deal_0130",
+    "occurred_at": "2026-03-27T12:23:50.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0644",
+    "deal_id": "deal_0130",
+    "occurred_at": "2026-04-12T10:27:50.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0645",
+    "deal_id": "deal_0130",
+    "occurred_at": "2026-04-23T21:37:50.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0646",
+    "deal_id": "deal_0131",
+    "occurred_at": "2025-12-14T18:21:17.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0647",
+    "deal_id": "deal_0131",
+    "occurred_at": "2026-02-22T06:03:17.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0648",
+    "deal_id": "deal_0131",
+    "occurred_at": "2026-06-27T13:11:17.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0649",
+    "deal_id": "deal_0131",
+    "occurred_at": "2026-10-26T06:43:17.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0650",
+    "deal_id": "deal_0132",
+    "occurred_at": "2026-03-25T04:28:59.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0651",
+    "deal_id": "deal_0132",
+    "occurred_at": "2026-03-27T22:02:59.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0652",
+    "deal_id": "deal_0132",
+    "occurred_at": "2026-04-03T18:09:59.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0653",
+    "deal_id": "deal_0132",
+    "occurred_at": "2026-04-10T07:15:59.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0654",
+    "deal_id": "deal_0132",
+    "occurred_at": "2026-04-23T16:33:59.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0655",
+    "deal_id": "deal_0132",
+    "occurred_at": "2026-04-30T04:28:59.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0656",
+    "deal_id": "deal_0133",
+    "occurred_at": "2026-08-29T20:00:27.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0657",
+    "deal_id": "deal_0133",
+    "occurred_at": "2026-08-29T23:00:27.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0658",
+    "deal_id": "deal_0133",
+    "occurred_at": "2026-08-30T04:00:27.000Z",
+    "from_stage": "qualified",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0659",
+    "deal_id": "deal_0134",
+    "occurred_at": "2026-08-19T02:29:43.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0660",
+    "deal_id": "deal_0134",
+    "occurred_at": "2026-08-20T14:25:43.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0661",
+    "deal_id": "deal_0134",
+    "occurred_at": "2026-08-24T00:58:43.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0662",
+    "deal_id": "deal_0134",
+    "occurred_at": "2026-08-27T07:20:43.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0663",
+    "deal_id": "deal_0134",
+    "occurred_at": "2026-09-02T20:30:43.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0664",
+    "deal_id": "deal_0134",
+    "occurred_at": "2026-09-08T06:14:43.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0665",
+    "deal_id": "deal_0135",
+    "occurred_at": "2026-01-26T14:17:11.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0666",
+    "deal_id": "deal_0135",
+    "occurred_at": "2026-01-29T06:24:11.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0667",
+    "deal_id": "deal_0135",
+    "occurred_at": "2026-02-03T17:45:11.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0668",
+    "deal_id": "deal_0135",
+    "occurred_at": "2026-02-08T10:51:11.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0669",
+    "deal_id": "deal_0135",
+    "occurred_at": "2026-02-16T18:59:11.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0670",
+    "deal_id": "deal_0135",
+    "occurred_at": "2026-02-22T14:17:11.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0671",
+    "deal_id": "deal_0136",
+    "occurred_at": "2026-07-21T04:40:24.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0672",
+    "deal_id": "deal_0136",
+    "occurred_at": "2026-08-04T20:01:24.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0673",
+    "deal_id": "deal_0136",
+    "occurred_at": "2026-09-01T00:45:24.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0674",
+    "deal_id": "deal_0136",
+    "occurred_at": "2026-09-18T18:02:24.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0675",
+    "deal_id": "deal_0136",
+    "occurred_at": "2026-10-16T23:08:24.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0676",
+    "deal_id": "deal_0137",
+    "occurred_at": "2026-07-26T22:25:20.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0677",
+    "deal_id": "deal_0137",
+    "occurred_at": "2026-07-29T13:39:20.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0678",
+    "deal_id": "deal_0137",
+    "occurred_at": "2026-08-07T03:13:20.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0679",
+    "deal_id": "deal_0137",
+    "occurred_at": "2026-08-16T10:53:20.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0680",
+    "deal_id": "deal_0137",
+    "occurred_at": "2026-09-03T14:05:20.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0681",
+    "deal_id": "deal_0137",
+    "occurred_at": "2026-09-15T09:10:20.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0682",
+    "deal_id": "deal_0138",
+    "occurred_at": "2026-03-17T08:19:11.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0683",
+    "deal_id": "deal_0138",
+    "occurred_at": "2026-03-19T19:50:11.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0684",
+    "deal_id": "deal_0138",
+    "occurred_at": "2026-03-26T03:24:11.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0685",
+    "deal_id": "deal_0138",
+    "occurred_at": "2026-03-31T19:44:11.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0686",
+    "deal_id": "deal_0138",
+    "occurred_at": "2026-04-10T05:55:11.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0687",
+    "deal_id": "deal_0138",
+    "occurred_at": "2026-04-16T08:19:11.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0688",
+    "deal_id": "deal_0139",
+    "occurred_at": "2026-05-03T12:12:53.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0689",
+    "deal_id": "deal_0139",
+    "occurred_at": "2026-05-27T14:03:53.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0690",
+    "deal_id": "deal_0139",
+    "occurred_at": "2026-07-22T03:13:53.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0691",
+    "deal_id": "deal_0139",
+    "occurred_at": "2026-09-15T01:20:53.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0692",
+    "deal_id": "deal_0140",
+    "occurred_at": "2026-06-16T01:00:40.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0693",
+    "deal_id": "deal_0140",
+    "occurred_at": "2026-06-17T23:07:40.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0694",
+    "deal_id": "deal_0140",
+    "occurred_at": "2026-06-21T10:01:40.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0695",
+    "deal_id": "deal_0140",
+    "occurred_at": "2026-06-24T14:23:40.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0696",
+    "deal_id": "deal_0140",
+    "occurred_at": "2026-07-03T01:00:40.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0697",
+    "deal_id": "deal_0141",
+    "occurred_at": "2026-01-11T03:29:00.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0698",
+    "deal_id": "deal_0141",
+    "occurred_at": "2026-03-16T10:22:00.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0699",
+    "deal_id": "deal_0141",
+    "occurred_at": "2026-06-06T01:35:00.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0700",
+    "deal_id": "deal_0141",
+    "occurred_at": "2026-10-27T22:38:00.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0701",
+    "deal_id": "deal_0142",
+    "occurred_at": "2026-04-30T01:20:36.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0702",
+    "deal_id": "deal_0142",
+    "occurred_at": "2026-05-04T00:49:36.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0703",
+    "deal_id": "deal_0142",
+    "occurred_at": "2026-05-11T22:16:36.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0704",
+    "deal_id": "deal_0142",
+    "occurred_at": "2026-05-23T02:05:36.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0705",
+    "deal_id": "deal_0142",
+    "occurred_at": "2026-06-05T21:59:36.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0706",
+    "deal_id": "deal_0142",
+    "occurred_at": "2026-06-18T01:20:36.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0707",
+    "deal_id": "deal_0143",
+    "occurred_at": "2026-04-02T00:53:06.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0708",
+    "deal_id": "deal_0143",
+    "occurred_at": "2026-04-09T16:28:06.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0709",
+    "deal_id": "deal_0143",
+    "occurred_at": "2026-04-30T10:42:06.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0710",
+    "deal_id": "deal_0143",
+    "occurred_at": "2026-05-19T10:15:06.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0711",
+    "deal_id": "deal_0143",
+    "occurred_at": "2026-06-19T00:53:06.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0712",
+    "deal_id": "deal_0144",
+    "occurred_at": "2025-11-24T10:15:50.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0713",
+    "deal_id": "deal_0144",
+    "occurred_at": "2025-11-29T16:56:50.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0714",
+    "deal_id": "deal_0144",
+    "occurred_at": "2025-12-10T10:15:50.000Z",
+    "from_stage": "qualified",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0715",
+    "deal_id": "deal_0145",
+    "occurred_at": "2026-07-20T03:37:28.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0716",
+    "deal_id": "deal_0145",
+    "occurred_at": "2026-07-26T21:45:28.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0717",
+    "deal_id": "deal_0145",
+    "occurred_at": "2026-08-06T20:26:28.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0718",
+    "deal_id": "deal_0145",
+    "occurred_at": "2026-08-18T07:13:28.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0719",
+    "deal_id": "deal_0145",
+    "occurred_at": "2026-09-24T19:53:28.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0720",
+    "deal_id": "deal_0145",
+    "occurred_at": "2026-10-10T16:36:34.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0721",
+    "deal_id": "deal_0146",
+    "occurred_at": "2026-09-11T20:42:14.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0722",
+    "deal_id": "deal_0146",
+    "occurred_at": "2026-09-11T23:42:14.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0723",
+    "deal_id": "deal_0146",
+    "occurred_at": "2026-09-12T04:42:14.000Z",
+    "from_stage": "qualified",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0724",
+    "deal_id": "deal_0147",
+    "occurred_at": "2026-09-02T17:23:23.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0725",
+    "deal_id": "deal_0147",
+    "occurred_at": "2026-09-06T23:04:23.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0726",
+    "deal_id": "deal_0147",
+    "occurred_at": "2026-09-17T04:46:23.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0727",
+    "deal_id": "deal_0147",
+    "occurred_at": "2026-09-25T05:40:23.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0728",
+    "deal_id": "deal_0147",
+    "occurred_at": "2026-10-20T17:23:23.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0729",
+    "deal_id": "deal_0148",
+    "occurred_at": "2026-09-02T12:36:00.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0730",
+    "deal_id": "deal_0148",
+    "occurred_at": "2026-09-06T22:58:00.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0731",
+    "deal_id": "deal_0148",
+    "occurred_at": "2026-09-14T03:24:00.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0732",
+    "deal_id": "deal_0148",
+    "occurred_at": "2026-09-19T22:31:00.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0733",
+    "deal_id": "deal_0148",
+    "occurred_at": "2026-10-06T04:56:00.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0734",
+    "deal_id": "deal_0148",
+    "occurred_at": "2026-10-15T11:49:00.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0735",
+    "deal_id": "deal_0149",
+    "occurred_at": "2026-05-31T10:53:30.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0736",
+    "deal_id": "deal_0149",
+    "occurred_at": "2026-06-01T10:49:30.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0737",
+    "deal_id": "deal_0149",
+    "occurred_at": "2026-06-04T15:37:30.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0738",
+    "deal_id": "deal_0149",
+    "occurred_at": "2026-06-08T03:42:30.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0739",
+    "deal_id": "deal_0149",
+    "occurred_at": "2026-06-15T04:31:30.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0740",
+    "deal_id": "deal_0149",
+    "occurred_at": "2026-06-18T10:53:30.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0741",
+    "deal_id": "deal_0150",
+    "occurred_at": "2026-10-01T12:12:20.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0742",
+    "deal_id": "deal_0150",
+    "occurred_at": "2026-10-02T07:27:20.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0743",
+    "deal_id": "deal_0150",
+    "occurred_at": "2026-10-03T20:54:20.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0744",
+    "deal_id": "deal_0150",
+    "occurred_at": "2026-10-05T15:45:20.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0745",
+    "deal_id": "deal_0150",
+    "occurred_at": "2026-10-27T22:55:20.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0746",
+    "deal_id": "deal_0150",
+    "occurred_at": "2026-10-30T12:12:20.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0747",
+    "deal_id": "deal_0151",
+    "occurred_at": "2026-01-09T10:21:47.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0748",
+    "deal_id": "deal_0151",
+    "occurred_at": "2026-01-11T21:03:47.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0749",
+    "deal_id": "deal_0151",
+    "occurred_at": "2026-01-18T00:06:47.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0750",
+    "deal_id": "deal_0151",
+    "occurred_at": "2026-01-23T01:16:47.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0751",
+    "deal_id": "deal_0151",
+    "occurred_at": "2026-04-14T04:48:47.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0752",
+    "deal_id": "deal_0151",
+    "occurred_at": "2026-04-23T10:21:47.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0753",
+    "deal_id": "deal_0152",
+    "occurred_at": "2026-05-22T17:10:45.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0754",
+    "deal_id": "deal_0152",
+    "occurred_at": "2026-05-24T07:48:45.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0755",
+    "deal_id": "deal_0152",
+    "occurred_at": "2026-05-29T11:19:45.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0756",
+    "deal_id": "deal_0152",
+    "occurred_at": "2026-06-02T22:14:45.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0757",
+    "deal_id": "deal_0152",
+    "occurred_at": "2026-06-12T07:11:45.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0758",
+    "deal_id": "deal_0152",
+    "occurred_at": "2026-06-16T17:10:45.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0759",
+    "deal_id": "deal_0153",
+    "occurred_at": "2026-01-21T15:56:46.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0760",
+    "deal_id": "deal_0153",
+    "occurred_at": "2026-03-20T02:49:46.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0761",
+    "deal_id": "deal_0153",
+    "occurred_at": "2026-06-26T13:33:46.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0762",
+    "deal_id": "deal_0153",
+    "occurred_at": "2026-10-17T01:24:46.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0763",
+    "deal_id": "deal_0154",
+    "occurred_at": "2026-03-23T14:09:27.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0764",
+    "deal_id": "deal_0154",
+    "occurred_at": "2026-03-24T13:58:27.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0765",
+    "deal_id": "deal_0154",
+    "occurred_at": "2026-03-27T01:39:27.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0766",
+    "deal_id": "deal_0154",
+    "occurred_at": "2026-03-29T17:24:27.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0767",
+    "deal_id": "deal_0154",
+    "occurred_at": "2026-04-05T16:59:27.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0768",
+    "deal_id": "deal_0154",
+    "occurred_at": "2026-04-09T14:08:27.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0769",
+    "deal_id": "deal_0155",
+    "occurred_at": "2026-05-06T06:28:20.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0770",
+    "deal_id": "deal_0155",
+    "occurred_at": "2026-05-17T21:43:20.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0771",
+    "deal_id": "deal_0155",
+    "occurred_at": "2026-06-17T03:44:20.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0772",
+    "deal_id": "deal_0155",
+    "occurred_at": "2026-07-09T15:32:20.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0773",
+    "deal_id": "deal_0155",
+    "occurred_at": "2026-09-20T02:21:20.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0774",
+    "deal_id": "deal_0155",
+    "occurred_at": "2026-10-21T10:37:20.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0775",
+    "deal_id": "deal_0156",
+    "occurred_at": "2026-06-03T20:37:02.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0776",
+    "deal_id": "deal_0156",
+    "occurred_at": "2026-07-06T07:40:02.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0777",
+    "deal_id": "deal_0156",
+    "occurred_at": "2026-09-08T10:09:02.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0778",
+    "deal_id": "deal_0156",
+    "occurred_at": "2026-10-30T20:37:02.000Z",
+    "from_stage": "discovery",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0779",
+    "deal_id": "deal_0157",
+    "occurred_at": "2026-04-07T20:53:28.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0780",
+    "deal_id": "deal_0157",
+    "occurred_at": "2026-05-21T17:06:28.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0781",
+    "deal_id": "deal_0157",
+    "occurred_at": "2026-08-05T03:18:28.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0782",
+    "deal_id": "deal_0157",
+    "occurred_at": "2026-10-17T17:50:28.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0783",
+    "deal_id": "deal_0158",
+    "occurred_at": "2026-05-22T05:28:46.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0784",
+    "deal_id": "deal_0158",
+    "occurred_at": "2026-05-22T23:16:46.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0785",
+    "deal_id": "deal_0158",
+    "occurred_at": "2026-05-24T12:44:46.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0786",
+    "deal_id": "deal_0158",
+    "occurred_at": "2026-05-26T08:52:46.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0787",
+    "deal_id": "deal_0158",
+    "occurred_at": "2026-05-31T09:40:46.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0788",
+    "deal_id": "deal_0158",
+    "occurred_at": "2026-06-03T05:27:46.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0789",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-02-19T18:55:50.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0790",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-02-22T05:04:50.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0791",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-02-28T01:23:50.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0792",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-03-08T21:42:50.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0793",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-03-22T23:42:50.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0794",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-04-01T12:37:50.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0795",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-04-13T02:15:50.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0796",
+    "deal_id": "deal_0159",
+    "occurred_at": "2026-04-20T18:54:50.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0797",
+    "deal_id": "deal_0160",
+    "occurred_at": "2026-03-04T13:57:17.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0798",
+    "deal_id": "deal_0160",
+    "occurred_at": "2026-03-05T14:01:17.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0799",
+    "deal_id": "deal_0160",
+    "occurred_at": "2026-03-07T08:38:17.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0800",
+    "deal_id": "deal_0160",
+    "occurred_at": "2026-03-10T08:50:17.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0801",
+    "deal_id": "deal_0160",
+    "occurred_at": "2026-03-15T00:26:17.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0802",
+    "deal_id": "deal_0160",
+    "occurred_at": "2026-03-17T13:57:17.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0803",
+    "deal_id": "deal_0161",
+    "occurred_at": "2026-07-14T15:05:40.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0804",
+    "deal_id": "deal_0161",
+    "occurred_at": "2026-07-24T20:33:40.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0805",
+    "deal_id": "deal_0161",
+    "occurred_at": "2026-08-09T12:21:40.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0806",
+    "deal_id": "deal_0161",
+    "occurred_at": "2026-08-31T10:57:40.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0807",
+    "deal_id": "deal_0161",
+    "occurred_at": "2026-09-27T13:26:40.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0808",
+    "deal_id": "deal_0161",
+    "occurred_at": "2026-10-20T15:06:40.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0809",
+    "deal_id": "deal_0162",
+    "occurred_at": "2026-09-17T01:43:05.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0810",
+    "deal_id": "deal_0162",
+    "occurred_at": "2026-09-22T02:16:05.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0811",
+    "deal_id": "deal_0162",
+    "occurred_at": "2026-10-05T18:43:05.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0812",
+    "deal_id": "deal_0162",
+    "occurred_at": "2026-10-20T23:38:05.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0813",
+    "deal_id": "deal_0163",
+    "occurred_at": "2026-09-03T08:37:20.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0814",
+    "deal_id": "deal_0163",
+    "occurred_at": "2026-09-07T19:10:20.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0815",
+    "deal_id": "deal_0163",
+    "occurred_at": "2026-09-15T08:42:20.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0816",
+    "deal_id": "deal_0163",
+    "occurred_at": "2026-09-27T08:09:20.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0817",
+    "deal_id": "deal_0163",
+    "occurred_at": "2026-10-20T22:08:20.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0818",
+    "deal_id": "deal_0163",
+    "occurred_at": "2026-10-30T08:37:20.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0819",
+    "deal_id": "deal_0164",
+    "occurred_at": "2026-07-31T03:25:58.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0820",
+    "deal_id": "deal_0164",
+    "occurred_at": "2026-08-06T23:22:58.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0821",
+    "deal_id": "deal_0164",
+    "occurred_at": "2026-08-22T09:05:58.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0822",
+    "deal_id": "deal_0164",
+    "occurred_at": "2026-09-04T06:21:58.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0823",
+    "deal_id": "deal_0164",
+    "occurred_at": "2026-10-04T07:08:58.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0824",
+    "deal_id": "deal_0164",
+    "occurred_at": "2026-10-25T09:14:58.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0825",
+    "deal_id": "deal_0165",
+    "occurred_at": "2026-09-30T14:03:27.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0826",
+    "deal_id": "deal_0165",
+    "occurred_at": "2026-10-01T09:10:27.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0827",
+    "deal_id": "deal_0165",
+    "occurred_at": "2026-10-03T02:23:27.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0828",
+    "deal_id": "deal_0165",
+    "occurred_at": "2026-10-04T20:05:27.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0829",
+    "deal_id": "deal_0165",
+    "occurred_at": "2026-10-30T14:03:27.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0830",
+    "deal_id": "deal_0166",
+    "occurred_at": "2026-03-22T04:52:06.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0831",
+    "deal_id": "deal_0166",
+    "occurred_at": "2026-03-26T01:33:06.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0832",
+    "deal_id": "deal_0166",
+    "occurred_at": "2026-03-31T01:15:06.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0833",
+    "deal_id": "deal_0166",
+    "occurred_at": "2026-04-08T23:22:06.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0834",
+    "deal_id": "deal_0166",
+    "occurred_at": "2026-04-19T23:15:06.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0835",
+    "deal_id": "deal_0166",
+    "occurred_at": "2026-04-27T04:52:06.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0836",
+    "deal_id": "deal_0167",
+    "occurred_at": "2026-03-24T05:08:43.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0837",
+    "deal_id": "deal_0167",
+    "occurred_at": "2026-03-28T02:40:43.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0838",
+    "deal_id": "deal_0167",
+    "occurred_at": "2026-04-03T17:03:43.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0839",
+    "deal_id": "deal_0167",
+    "occurred_at": "2026-04-12T20:22:43.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0840",
+    "deal_id": "deal_0167",
+    "occurred_at": "2026-04-28T05:08:43.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0841",
+    "deal_id": "deal_0168",
+    "occurred_at": "2026-06-02T08:55:48.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0842",
+    "deal_id": "deal_0168",
+    "occurred_at": "2026-06-07T00:08:48.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0843",
+    "deal_id": "deal_0168",
+    "occurred_at": "2026-06-13T00:56:48.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0844",
+    "deal_id": "deal_0168",
+    "occurred_at": "2026-06-20T09:35:48.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0845",
+    "deal_id": "deal_0168",
+    "occurred_at": "2026-07-07T03:10:48.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0846",
+    "deal_id": "deal_0168",
+    "occurred_at": "2026-07-16T08:55:48.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0847",
+    "deal_id": "deal_0169",
+    "occurred_at": "2026-04-28T10:19:46.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0848",
+    "deal_id": "deal_0169",
+    "occurred_at": "2026-05-03T01:49:46.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0849",
+    "deal_id": "deal_0169",
+    "occurred_at": "2026-05-13T20:08:46.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0850",
+    "deal_id": "deal_0169",
+    "occurred_at": "2026-05-24T10:19:46.000Z",
+    "from_stage": "discovery",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0851",
+    "deal_id": "deal_0170",
+    "occurred_at": "2026-03-26T19:45:35.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0852",
+    "deal_id": "deal_0170",
+    "occurred_at": "2026-04-12T19:32:35.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0853",
+    "deal_id": "deal_0170",
+    "occurred_at": "2026-05-31T19:19:35.000Z",
+    "from_stage": "qualified",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0854",
+    "deal_id": "deal_0170",
+    "occurred_at": "2026-09-22T06:51:35.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0855",
+    "deal_id": "deal_0170",
+    "occurred_at": "2026-10-31T05:56:35.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0856",
+    "deal_id": "deal_0171",
+    "occurred_at": "2026-01-15T04:31:33.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0857",
+    "deal_id": "deal_0171",
+    "occurred_at": "2026-01-24T08:15:33.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0858",
+    "deal_id": "deal_0171",
+    "occurred_at": "2026-02-09T16:07:33.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0859",
+    "deal_id": "deal_0171",
+    "occurred_at": "2026-02-21T04:30:33.000Z",
+    "from_stage": "discovery",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0860",
+    "deal_id": "deal_0172",
+    "occurred_at": "2026-05-14T13:39:51.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0861",
+    "deal_id": "deal_0172",
+    "occurred_at": "2026-05-16T00:19:51.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0862",
+    "deal_id": "deal_0172",
+    "occurred_at": "2026-05-18T11:29:51.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0863",
+    "deal_id": "deal_0172",
+    "occurred_at": "2026-05-21T22:15:51.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0864",
+    "deal_id": "deal_0172",
+    "occurred_at": "2026-05-27T06:19:51.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0865",
+    "deal_id": "deal_0172",
+    "occurred_at": "2026-05-30T13:39:51.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0866",
+    "deal_id": "deal_0173",
+    "occurred_at": "2026-10-06T07:10:24.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0867",
+    "deal_id": "deal_0173",
+    "occurred_at": "2026-10-08T10:43:24.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0868",
+    "deal_id": "deal_0173",
+    "occurred_at": "2026-10-12T01:19:24.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0869",
+    "deal_id": "deal_0173",
+    "occurred_at": "2026-10-16T17:19:24.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0870",
+    "deal_id": "deal_0173",
+    "occurred_at": "2026-10-24T07:10:24.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0871",
+    "deal_id": "deal_0174",
+    "occurred_at": "2026-01-17T11:26:37.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0872",
+    "deal_id": "deal_0174",
+    "occurred_at": "2026-01-20T02:55:37.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0873",
+    "deal_id": "deal_0174",
+    "occurred_at": "2026-01-25T07:30:37.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0874",
+    "deal_id": "deal_0174",
+    "occurred_at": "2026-01-29T22:59:37.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0875",
+    "deal_id": "deal_0174",
+    "occurred_at": "2026-02-12T01:53:37.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0876",
+    "deal_id": "deal_0174",
+    "occurred_at": "2026-02-17T11:26:37.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0877",
+    "deal_id": "deal_0175",
+    "occurred_at": "2026-04-02T06:34:31.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0878",
+    "deal_id": "deal_0175",
+    "occurred_at": "2026-05-10T16:09:31.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0879",
+    "deal_id": "deal_0175",
+    "occurred_at": "2026-07-16T01:45:31.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0880",
+    "deal_id": "deal_0175",
+    "occurred_at": "2026-10-19T10:25:31.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0881",
+    "deal_id": "deal_0176",
+    "occurred_at": "2026-07-16T01:39:57.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0882",
+    "deal_id": "deal_0176",
+    "occurred_at": "2026-07-26T02:09:57.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0883",
+    "deal_id": "deal_0176",
+    "occurred_at": "2026-08-10T21:18:57.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0884",
+    "deal_id": "deal_0176",
+    "occurred_at": "2026-09-05T14:27:57.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0885",
+    "deal_id": "deal_0176",
+    "occurred_at": "2026-10-17T11:19:57.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0886",
+    "deal_id": "deal_0177",
+    "occurred_at": "2026-06-09T05:38:40.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0887",
+    "deal_id": "deal_0177",
+    "occurred_at": "2026-06-18T15:22:40.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0888",
+    "deal_id": "deal_0177",
+    "occurred_at": "2026-07-07T18:39:40.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0889",
+    "deal_id": "deal_0177",
+    "occurred_at": "2026-07-28T03:16:40.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0890",
+    "deal_id": "deal_0177",
+    "occurred_at": "2026-09-07T07:24:40.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0891",
+    "deal_id": "deal_0177",
+    "occurred_at": "2026-09-22T11:33:15.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0892",
+    "deal_id": "deal_0178",
+    "occurred_at": "2026-04-30T05:03:38.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0893",
+    "deal_id": "deal_0178",
+    "occurred_at": "2026-05-06T21:14:38.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0894",
+    "deal_id": "deal_0178",
+    "occurred_at": "2026-05-19T01:58:38.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0895",
+    "deal_id": "deal_0178",
+    "occurred_at": "2026-06-06T03:15:38.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0896",
+    "deal_id": "deal_0178",
+    "occurred_at": "2026-10-30T05:03:38.000Z",
+    "from_stage": "proposal",
+    "to_stage": "lost",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0897",
+    "deal_id": "deal_0179",
+    "occurred_at": "2026-07-25T21:10:38.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0898",
+    "deal_id": "deal_0179",
+    "occurred_at": "2026-08-04T17:04:38.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0899",
+    "deal_id": "deal_0179",
+    "occurred_at": "2026-08-23T03:15:38.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0900",
+    "deal_id": "deal_0179",
+    "occurred_at": "2026-09-16T03:29:38.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0901",
+    "deal_id": "deal_0179",
+    "occurred_at": "2026-10-18T10:02:38.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0902",
+    "deal_id": "deal_0180",
+    "occurred_at": "2026-03-06T13:03:35.000Z",
+    "from_stage": null,
+    "to_stage": "new",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0903",
+    "deal_id": "deal_0180",
+    "occurred_at": "2026-03-09T15:09:35.000Z",
+    "from_stage": "new",
+    "to_stage": "qualified",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0904",
+    "deal_id": "deal_0180",
+    "occurred_at": "2026-03-17T22:17:35.000Z",
+    "from_stage": "qualified",
+    "to_stage": "discovery",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0905",
+    "deal_id": "deal_0180",
+    "occurred_at": "2026-03-25T20:20:35.000Z",
+    "from_stage": "discovery",
+    "to_stage": "proposal",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0906",
+    "deal_id": "deal_0180",
+    "occurred_at": "2026-04-12T19:44:35.000Z",
+    "from_stage": "proposal",
+    "to_stage": "negotiation",
+    "source": "synthetic_fixture"
+  },
+  {
+    "id": "evt_0907",
+    "deal_id": "deal_0180",
+    "occurred_at": "2026-04-22T13:02:35.000Z",
+    "from_stage": "negotiation",
+    "to_stage": "won",
+    "source": "synthetic_fixture"
+  }
+]
